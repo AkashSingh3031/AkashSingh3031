@@ -3,7 +3,7 @@
 - 🔭 I'm in the 3rd year of B.Tech Computer Science.
 - 🌱 I’m currently Developing Projects in Python.
 - 🎯 I’m focusing on Competitive Programming.
-- 💬  Ask me about Technical Staff and about programming languages
+- 💬  Ask me about programming languages
 - 📫 How to reach me: 
 - 🤝 How to connect with me: [LinkedIn](https://www.linkedin.com/in/akash-singh3031/)
 - ⚡ Fun fact: 
