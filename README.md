@@ -1,6 +1,6 @@
 ### Hello, 👋 I'm [Akash Singh](https://akashsingh3031.medium.com/)
 
-- 🔭 I'm in the 3rd year of B.Tech Computer Science Hons.
+- 🔭 I'm in the 3rd year of B.Tech Computer Science.
 - 🌱 I’m currently Developing Projects in Python.
 - 🎯 I’m focusing on Competitive Programming.
 - 💬  Ask me about Technical Staff and about programming languages
