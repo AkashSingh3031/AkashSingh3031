@@ -7,23 +7,39 @@
 
 - 🌱 I’m currently Developing Projects in Python.
 
+- :zap: I’m currently learning Machine Learning.
+
 - 🎯 I’m focusing on Competitive Programming.
 
-- <details> <summary>💬 Ask meabout programming languages😎 </summary> <a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp.png" width="35px" /></a> <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram.jpg" width="20px" /></a>
+- <details> <summary>💬 Ask meabout programming languages😎 </summary> <a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="22px" /> </a> <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="22px" /></a>
 </details>  
 
-- <details> <summary>📫  How to reach me :</summary><a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp.png" width="35px" /></a> <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram.jpg" width="20px" /></a> <a href="mailto:akashsingh3031@gmail.com"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Gmail_icon_(2020).svg" width="22px"/></a> <a href="https://www.linkedin.com/in/akash-singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/LinkedIn.svg" width="20px" /></a> <a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram.png" width="20px" /></a>
+- <details> <summary>📫  How to reach me :</summary> <a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="22px" /> </a> <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="22px" /> </a> <a href="mailto:akashsingh3031@gmail.com"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Gmail_icon_(2020).svg" width="22px"/> </a> <a href="https://www.linkedin.com/in/akash-singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" width="22px" /> </a> <a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" width="22px" /></a>
 </details>
 
 <br> 
 
 ### :zap: GitHub Stats
 
-<img src= "https://github-readme-stats.vercel.app/api?username=AkashSingh3031&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" alt="Akash Singh"/>
 
-### :zap: Most used languages
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /></p>
+
+### :zap: Most used languages ❤️
 
 <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&hide=html&theme=highcontrast">
+
+### :zap: GitHub Trophies 🏆
+
+<p align="center">
+  <a href="https://github.com/AkashSingh3031/AkashSingh3031" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  </a>
+</p>
+
+
+
+![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashSingh3031&theme=dracula&layout=compact&title_color=FF69B4)
 
 # My Certificates
 
@@ -268,14 +284,14 @@
  <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/akash-singh3031/"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Akash's linkedin" width="22px" /></a>  
-<a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/insta(color).png" alt="Akash's Instagram" width="22px" /></a>
-<a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/youtube(color).png" alt="YouTube"  width="22px" /></a>
-<a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="22px" /></a>
- <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="22px" /></a>
-<a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="22px" /></a>
-<a href="https://github.com/AkashSingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github(color).png" width="22px"/></a> 
-<a href="https://medium.com/@akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/medium.svg" width="22px"/></a> 
+<a href="https://www.linkedin.com/in/akash-singh3031/"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Akash's linkedin" width="25px" /></a>  
+<a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" alt="Akash's Instagram" width="25px" /></a>
+<a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/youtube(color).png" alt="YouTube"  width="25px" /></a>
+<a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="25px" /></a>
+ <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="25px" /></a>
+<a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="25px" /></a>
+<a href="https://github.com/AkashSingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github(color).png" width="25px"/></a> 
+<a href="https://medium.com/@akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/medium.svg" width="25px"/></a> 
   
 </p>
 
