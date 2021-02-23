@@ -259,6 +259,11 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/SoloLearn/Java_certificate.jpg)
 </details>
 
+<details> <summary>:zap: GeeksForGeeks Certificates.</summary>
+
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/GFG/0001.jpg)
+</details>
+
 <br>
  <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
 
