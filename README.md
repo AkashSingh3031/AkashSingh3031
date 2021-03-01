@@ -215,6 +215,16 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0013.jpg)
 </details>
 
+<details> <summary>:zap: LinkedIn Certificates.</summary>
+
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/LinkedIn/0001.jpg)
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/LinkedIn/0002.jpg)
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/LinkedIn/0003.jpg)
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/LinkedIn/0004.jpg)
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/LinkedIn/0005.jpg)
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/LinkedIn/0006.jpg)
+</details>
+
 <details> <summary>:zap: freeCodeCamp Certificates.</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/FreeCodeCamp/0001.jpg)
