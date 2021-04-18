@@ -175,6 +175,7 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0125.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0126.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0127.jpg)
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0128.jpg)
  </details>
  
  <details> <summary>:zap: Udemy Certificates.</summary>
