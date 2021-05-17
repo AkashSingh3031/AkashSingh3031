@@ -44,9 +44,9 @@
 
 ![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashSingh3031&theme=dracula&layout=compact&title_color=FF69B4)
 
-# My Certificates
+# My Certificates [221]
 
-<details> <summary>:zap: Coursera Certificates.</summary>
+<details> <summary>:zap: Coursera Certificates [129].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0001.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0002.jpg)
@@ -176,9 +176,10 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0126.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0127.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0128.jpg)
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0129.jpg)
  </details>
  
- <details> <summary>:zap: Udemy Certificates.</summary>
+ <details> <summary>:zap: Udemy Certificates [34].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Udemy/'%20Udemy%20Certification%20'_page-0001.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Udemy/'%20Udemy%20Certification%20'_page-0002.jpg)
@@ -216,7 +217,7 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Udemy/'%20Udemy%20Certification%20'_page-0034.jpg)
 </details>
 
-<details> <summary>:zap: IBM SkillsBuild Certificates.</summary>
+<details> <summary>:zap: IBM SkillsBuild Certificates [10].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0001.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0002.jpg)
@@ -226,9 +227,11 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0006.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0007.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0008.jpg)
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0009.jpg)
+![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0010.jpg)
 </details>
 
-<details> <summary>:zap: AWS Certificates.</summary>
+<details> <summary>:zap: AWS Certificates [13].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0001.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0002.jpg)
@@ -245,7 +248,7 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0013.jpg)
 </details>
 
-<details> <summary>:zap: LinkedIn Certificates.</summary>
+<details> <summary>:zap: LinkedIn Certificates [17].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/LinkedIn/0001.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/LinkedIn/0002.jpg)
@@ -266,7 +269,7 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/LinkedIn/0017.jpg)
 </details>
 
-<details> <summary>:zap: freeCodeCamp Certificates.</summary>
+<details> <summary>:zap: freeCodeCamp Certificates [5].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/FreeCodeCamp/0001.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/FreeCodeCamp/0002.jpg)
@@ -275,43 +278,43 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/FreeCodeCamp/0005.PNG)
 </details>
 
-<details> <summary>:zap: HackerRank Certificates.</summary>
+<details> <summary>:zap: HackerRank Certificates [2].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/HackerRank/0001.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/HackerRank/0002.jpg)
 </details>
 
-<details> <summary>:zap: Jovian Certificates.</summary>
+<details> <summary>:zap: Jovian Certificates [2].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Jovian/0001.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Jovian/0002.jpg)
 </details>
 
-<details> <summary>:zap: TechSim+ Certificates.</summary>
+<details> <summary>:zap: TechSim+ Certificates [2].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/TechSim%2B/Image%20Processing%20and%20Face%20Detection%20using%20ML.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/TechSim%2B/Master%20in%20Python%20-%20Django%20%26%20API%20Development.jpg)
 </details>
 
-<details> <summary>:zap: Code Warrior Certificates.</summary>
+<details> <summary>:zap: Code Warrior Certificates [2].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Code%20Warrior/DeepLearning.png)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Code%20Warrior/ML.png)
 </details>
 
-<details> <summary>:zap: Nvidia Certificates.</summary>
+<details> <summary>:zap: Nvidia Certificates [1].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/NVIDIA%20AI%20Certificate.jpg)
 </details>
 
-<details> <summary>:zap: SoloLearn Certificates.</summary>
+<details> <summary>:zap: SoloLearn Certificates [3].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/SoloLearn/C_certificate.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/SoloLearn/Python_certificate.jpg)
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/SoloLearn/Java_certificate.jpg)
 </details>
 
-<details> <summary>:zap: GeeksForGeeks Certificates.</summary>
+<details> <summary>:zap: GeeksForGeeks Certificates [1].</summary>
 
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/GFG/0001.jpg)
 </details>
