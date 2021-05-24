@@ -44,7 +44,7 @@
 
 ![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashSingh3031&theme=dracula&layout=compact&title_color=FF69B4)
 
-# My Certificates [233]
+# My Certificates [236]
 
 <details> <summary>:zap: Coursera Certificates [129].</summary>
 
@@ -217,21 +217,7 @@
 ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Udemy/'%20Udemy%20Certification%20'_page-0034.jpg)
 </details>
 
-<details> <summary>:zap: IBM SkillsBuild Certificates [10].</summary>
-
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20Certifications%20'_page-0001.jpg)
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0002.jpg)
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0003.jpg)
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0004.jpg)
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0005.jpg)
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0006.jpg)
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0007.jpg)
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0008.jpg)
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0009.jpg)
-![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20'_page-0010.jpg)
-</details>
-
-<details> <summary>:zap: AWS Certificates [25].</summary>
+<details> <summary>:zap: IBM SkillsBuild Certificates [25].</summary>
 
  ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20Certifications%20'_page-0001.jpg)
  ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20Certifications%20'_page-0002.jpg)
@@ -258,6 +244,23 @@
  ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20Certifications%20'_page-0023.jpg)
  ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20Certifications%20'_page-0024.jpg)
  ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20Certifications%20'_page-0025.jpg)
+</details>
+
+<details> <summary>:zap: AWS Certificates [13].</summary>
+
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0001.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0002.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0003.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0004.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0005.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0006.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0007.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0008.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0009.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0010.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0011.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0012.jpg)
+ ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/AWS/'%20AWS%20Certifications%20'_page-0013.jpg)
 </details>
 
 <details> <summary>:zap: LinkedIn Certificates [17].</summary>
