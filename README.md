@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Developing Projects in Python.
 
-- :zap: I’m currently learning Machine Learning.
+- :zap: I’m currently learning Data Science.
 
 - 🎯 I’m focusing on Competitive Programming.
 
