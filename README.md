@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently Developing Projects in Python.
 
+- 👬 I’m looking to collaborate on [`The-Complete-FAANG-Preparation`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+
 - :zap: I’m currently learning Data Science.
 
 - 🎯 I’m focusing on Competitive Programming.
@@ -21,6 +23,31 @@
 </details>
 
 <br> 
+
+<h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
+<table align="center">
+    <thead align="center">
+        <tr border: 1px;>
+            <td><b>FAANG Preparation :octocat: <br> [Facebook, Amazon, Apple, Netflix, Google]</b></td>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"</a><b>The Complete FAANG Preparation</b></td>
+            <td><img alt="Stars"src="https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Forks"src="https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Issues"src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests"src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Close Pull Requests"src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>        
+</table>
+
 
 ### :zap: GitHub Stats
 
