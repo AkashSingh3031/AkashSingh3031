@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently Developing Projects in Python.
 
-- 👬 I’m looking to collaborate on [`The-Complete-FAANG-Preparation`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+- 👬 I’m looking to collaborate on <b>[`The-Complete-FAANG-Preparation`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)<b>
 
 - :zap: I’m currently learning Data Science.
 
@@ -31,6 +31,12 @@
 <br> 
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
+<p align="center">
+  <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical"/>
+  </a>
+</p>
+    
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
@@ -53,35 +59,44 @@
         </tr>
     </tbody>        
 </table>
-
-
+    
 ### :zap: GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" alt="Akash Singh"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=dracula" /></p>
 
 ### :zap: Most used languages ❤️
 
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&hide=html&theme=highcontrast">
-
+<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&hide=html&theme=highcontrast"><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=dracula" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=dracula">
+</a>
+    
 ### :zap: My Tech Toolbox 🧰
 
 <p align="left">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
-<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
-<img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" alt="C" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/>
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/> 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/> 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/css3-original-wordmark.svg" alt="css3" height="40"/> 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/github.svg" alt="github" width="40" height="40"/> 
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
 
 ### :zap: GitHub Trophies 🏆
 
 <p align="center">
-  <a href="https://github.com/AkashSingh3031/AkashSingh3031" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&theme=gruvbox&layout=compact&title_color=00FF00"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&theme=juicyfresh&row=2&column=4&margin-w=20&margin-h=15"/>
   </a>
 </p>
 
