@@ -51,11 +51,11 @@
     <tbody>
          <tr>
             <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"</a><b>The Complete FAANG Preparation</b></td>
-            <td><img alt="Stars"src="https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
-            <td><img alt="Forks"src="https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
-            <td><img alt="Issues"src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests"src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
-            <td><img alt="Close Pull Requests"src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="Stars" href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers" src="https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Forks" href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members" src="https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Issues" href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues" src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
+            <td><img alt="Close Pull Requests" href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls" src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github"/></td>
         </tr>
     </tbody>        
 </table>
