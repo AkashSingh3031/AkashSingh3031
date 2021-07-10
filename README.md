@@ -10,6 +10,9 @@
 [![Repos Badge](https://badges.pufler.dev/repos/AkashSingh3031)](https://github.com/AkashSingh3031?tab=repositories) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akash-singh3031/) 
 [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/akashsingh3031)](https://twitter.com/akashsingh3031)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/akashsingh3031/)](https://www.facebook.com/akashsingh3031/)
+[![Instragram](https://img.shields.io/badge/-Instagram-red?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/akash.singh3031/)](https://www.instagram.com/akash.singh3031/)
 <br>
 
 - 🔭 I'm in the 3<sup>rd</sup> year of B.Tech Computer Science.
