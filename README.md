@@ -5,21 +5,26 @@
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031) 
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AkashSingh3031.profileviews-badge)](https://github.com/AkashSingh3031) 
-[![followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers) 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
 [![Repos Badge](https://badges.pufler.dev/repos/AkashSingh3031)](https://github.com/AkashSingh3031?tab=repositories) 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) 
+[![GitHub followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akash-singh3031/) 
+[![Connect on WhatsApp](https://img.shields.io/badge/--WhatsApp?label=WhatsApp&logo=WhatsApp&style=social)](https://wa.me/919794423031)
+[![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/akash_singh3031)
+[![Connect on Twitter](https://img.shields.io/badge/--Twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/akashsingh3031)
+[![Twitter followers](https://img.shields.io/twitter/follow/akashsingh3031?style=social)](https://twitter.com/akashsingh3031)
+[![Connect on Facebook](https://img.shields.io/badge/--Facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/akashsingh3031/)
+[![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/akash.singh3031/)
+[![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](akashsingh27101998@gmail.com)
+[![Connect on Medium](https://img.shields.io/badge/--Medium?label=Medium&logo=Medium&style=social)](https://medium.com/@akashsingh3031)
 [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/akashsingh3031)](https://twitter.com/akashsingh3031)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/akashsingh3031/)](https://www.facebook.com/akashsingh3031/)
-[![Instragram](https://img.shields.io/badge/-Instagram-red?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/akash.singh3031/)](https://www.instagram.com/akash.singh3031/)
 <br>
 
 - 🔭 I'm in the 3<sup>rd</sup> year of B.Tech Computer Science.
 
 - 🌱 I’m currently Developing Projects in Python.
 
-- 👬 I’m looking to collaborate on <b>[`The-Complete-FAANG-Preparation`](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)<b>
+- 👬 I’m looking to collaborate on <code>[![`The-Complete-FAANG-Preparation`](https://img.shields.io/badge/The_Complete_FAANG_Preparation-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)</code>
 
 - :zap: I’m currently learning Data Science.
 
