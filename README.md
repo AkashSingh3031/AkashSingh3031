@@ -22,16 +22,11 @@
 [![Views on my Channel](https://img.shields.io/youtube/channel/views/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 <br>
 
-- 🔭 I'm in the 3<sup>rd</sup> year of B.Tech Computer Science.
-
-- 🌱 I’m currently Developing Projects in Python.
-
-- 👬 I’m looking to collaborate on <code>[![`The-Complete-FAANG-Preparation`](https://img.shields.io/badge/The_Complete_FAANG_Preparation-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)</code>
-
+- 🔭 I'm in the 4<sup>th</sup> year of B.Tech Computer Science.
+- 🌱 I’m currently working on Open-Source.
+- 👬 I’m looking to collaborate on <code>[![`The-Complete-FAANG-Preparation`](https://img.shields.io/badge/The_Complete_FAANG_Preparation-green?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)</code>
 - :zap: I’m currently learning Data Science.
-
 - 🎯 I’m focusing on Competitive Programming.
-
 - <details> 
   <summary>💬 Ask me about programming languages😎 </summary> 
   
