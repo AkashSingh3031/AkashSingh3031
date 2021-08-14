@@ -24,7 +24,7 @@
 
 - 🔭 I'm in the 4<sup>th</sup> year of B.Tech Computer Science.
 - 🌱 I’m currently working on Open-Source.
-- 👬 I’m looking to collaborate on ![`The-Complete`](https://img.shields.io/badge/The_Complete-orange?style=for-the-badge) <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif" width="100px" /></a> ![`Preparation`](https://img.shields.io/badge/Preparation-green?style=for-the-badge)
+- 👬 I’m looking to collaborate on [![`The-Complete`](https://img.shields.io/badge/The_Complete-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANG-3.gif" width="100px" /></a> [![`Preparation`](https://img.shields.io/badge/Preparation-green?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 - :zap: I’m currently learning Data Science.
 - 🎯 I’m focusing on Competitive Programming.
 - <details> 
