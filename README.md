@@ -438,8 +438,9 @@
   <code><a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="40px" /></a></code>
   <code><a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="40px" /></a></code>
   <code><a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="40px" /></a></code>
-  <code><a href="https://github.com/AkashSingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github(color).png" width="40px"/></a></code> 
-  <code><a href="https://medium.com/@akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/medium.svg" width="40px"/></a></code> 
+  <code><a href="https://github.com/AkashSingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github(color).png" width="50px"/></a></code> 
+  <code><a href="https://medium.com/@akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/medium.svg" width="40px"/></a></code>
+  <code><a href="https://www.kaggle.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/kaggle.svg" width="40px"/></a></code>
 </p>
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
