@@ -428,7 +428,7 @@
 
 <br>
 
- <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
+ <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
 
 <p align="center">
   <code><a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/youtube(color).png" alt="YouTube"  width="40px" /></a></code>
