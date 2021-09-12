@@ -386,7 +386,7 @@
   ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/HackerRank/0004.png)
   ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/HackerRank/0005.png)
   ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/HackerRank/0006.png)
-</detailspng
+</details>
 
 <details>
   <summary>:zap: Jovian Certificates [2].</summary>
