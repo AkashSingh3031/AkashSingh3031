@@ -123,7 +123,7 @@
 
 ![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashSingh3031&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
-# My Certificates [236]
+# My Certificates [240]
 
 <details> 
   <summary>:zap: Coursera Certificates [129].</summary>
