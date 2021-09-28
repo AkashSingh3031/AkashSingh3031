@@ -77,7 +77,7 @@
     </tbody>        
 </table>
     
-### :zap: GitHub Trophies 🏆🏆🏆
+### :zap: GitHub Trophies 🏆
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
