@@ -45,14 +45,14 @@
   <a href="mailto:akashsingh27101998@gmail.com"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Gmail_icon_(2020).svg" width="27px"/> </a>
 </details>
 <br> 
- 
+
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <p align="center">
   <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical"/>
   </a>
 </p>
-    
+
 <table align="center">
     <thead align="center">
         <tr border: 1px;>
