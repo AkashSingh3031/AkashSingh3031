@@ -35,7 +35,7 @@
 </details>  -->
 - <details> 
   <summary>📫  How to reach me :</summary> 
-  
+
   <a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="27px" /> </a> 
   <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="27px" /> </a> 
   <a href="https://www.linkedin.com/in/akash-singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" width="27px" /> </a> 
