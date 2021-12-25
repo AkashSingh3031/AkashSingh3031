@@ -37,13 +37,13 @@
   <summary>📫  How to reach me :</summary>
   <a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="27px" /> </a>
   <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="27px" /> </a>
-  <a href="https://www.linkedin.com/in/akash-singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" width="27px" /> </a> 
-  <a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" width="27px" /> </a> 
+  <a href="https://www.linkedin.com/in/akash-singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" width="27px" /> </a>
+  <a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" width="27px" /> </a>
   <a href="https://www.facebook.com/akashsingh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/facebook(color).png" alt="Akash's Facebook" width="27px" /> </a>
-  <a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="27px" /> </a> 
+  <a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="27px" /> </a>
   <a href="mailto:akashsingh27101998@gmail.com"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Gmail_icon_(2020).svg" width="27px"/> </a>
 </details>
-<br> 
+<br>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <p align="center">
@@ -72,7 +72,7 @@
             <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&logo=github"/></td>
             <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=flat&color=critical&logo=github"/></td>
         </tr>
-    </tbody>        
+    </tbody>
 </table>
     
 ### :zap: GitHub Trophies 🏆
