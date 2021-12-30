@@ -85,7 +85,7 @@
 
 ### :zap: My Tech Toolbox 🧰
 <p align="left">
-  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code> 
+  <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/></code> 
