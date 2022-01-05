@@ -121,7 +121,7 @@
 <!-- # My Certificates [240]<p><img src="https://user-images.githubusercontent.com/60146338/134114969-62551dec-7aa9-4639-bc01-781a96e4b123.png" width="50px" height="50px"></p> -->
 <h1 align="center"> My Certificates [240] <img src="https://user-images.githubusercontent.com/60146338/134114969-62551dec-7aa9-4639-bc01-781a96e4b123.png" width="50px"></h1>
 
-<details> 
+<details>
   <summary>:zap: Coursera Certificates [129].</summary>
 
   ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0001.jpg)
