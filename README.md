@@ -254,7 +254,7 @@
   ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0128.jpg)
   ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Coursera/'%20Coursera%20Certifications%20'_pages-to-jpg-0129.jpg)
  </details>
- 
+
  <details> 
   <summary>:zap: Udemy Certificates [34].</summary>
 
