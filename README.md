@@ -294,7 +294,7 @@
   ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/Udemy/'%20Udemy%20Certification%20'_page-0034.jpg)
  </details>
 
- <details> 
+ <details>
   <summary>:zap: IBM SkillsBuild Certificates [25].</summary>
 
    ![Certificate](https://github.com/AkashSingh3031/365-Days-of-Code/blob/master/--'%20Akash%20Singh's%20Profile%20'--/Certificates/Cetificates/IBM%20SkillsBuild/'%20IBM%20SkillsBuild%20Certifications%20'_page-0001.jpg)
