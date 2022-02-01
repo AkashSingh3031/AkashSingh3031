@@ -30,7 +30,7 @@
 - :zap: I’m currently learning Data Science.
 - 🎯 I’m focusing on Competitive Programming.
 <!-- - <details>
-  <summary>💬 Ask me about programming languages😎 </summary>
+  <summary> 💬 Ask me about programming languages😎 </summary>
   <a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="27px" /> </a>
   <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="27px" /></a>
 </details>  -->
