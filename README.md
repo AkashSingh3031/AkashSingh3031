@@ -21,6 +21,7 @@
 [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 [![Views on my Channel](https://img.shields.io/youtube/channel/views/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
+
 <br>
 
 - 🔭 I'm in the 4<sup>th</sup> year of B.Tech Computer Science.
