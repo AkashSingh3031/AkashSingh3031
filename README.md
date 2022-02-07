@@ -38,7 +38,7 @@
   <summary>📫  How to reach me :</summary>
   <a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="27px" /> </a>
   <a href="https://t.me/akash_singh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="27px" /> </a>
-  <a href="https://www.linkedin.com/in/akash-singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" width="27px" /> </a>
+  <a href="https://www.linkedin.com/in/akashsingh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" width="27px" /> </a>
   <a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" width="27px" /> </a>
   <a href="https://www.facebook.com/akashsingh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/facebook(color).png" alt="Akash's Facebook" width="27px" /> </a>
   <a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="27px" /> </a>
@@ -433,7 +433,7 @@
 
 <p align="center">
   <code><a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/youtube(color).png" alt="YouTube"  width="40px" /></a></code>
-  <code><a href="https://www.linkedin.com/in/akash-singh3031/"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Akash's linkedin" width="40px" /></a></code>  
+  <code><a href="https://www.linkedin.com/in/akashsingh3031/"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/linked(color).png" alt="Akash's linkedin" width="40px" /></a></code>  
   <code><a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Instagram%20(1).svg" alt="Akash's Instagram" width="40px" /></a></code>
   <code><a href="https://www.facebook.com/akashsingh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/facebook(color).png" alt="Akash's Facebook" width="40px" /></a></code>
   <code><a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/twitter(color).png" width="40px" /></a></code>
