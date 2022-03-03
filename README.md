@@ -119,6 +119,8 @@
 
 ![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashSingh3031&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
+![Akash's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 <!-- # My Certificates [240]<p><img src="https://user-images.githubusercontent.com/60146338/134114969-62551dec-7aa9-4639-bc01-781a96e4b123.png" width="50px" height="50px"></p> -->
 <h1 align="center"> My Certificates [240] <img src="https://user-images.githubusercontent.com/60146338/134114969-62551dec-7aa9-4639-bc01-781a96e4b123.png" width="50px"></h1>
 
