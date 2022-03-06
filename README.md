@@ -55,7 +55,7 @@
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <p align="center">
   <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical"/>
+    <img width=50% src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical"/>
   </a>
 </p>
 
@@ -90,7 +90,7 @@
 </p>
 
 ### :zap: My Tech Toolbox 🧰
-<p align="left">
+<!-- <p align="left">
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code>
@@ -102,8 +102,11 @@
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/github.svg" alt="github" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
-</p>
+</p> -->
 
+  |<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/css3-original-wordmark.svg" alt="css3" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/github.svg" alt="github" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>|
+  |---|---|---|---|---|---|---|---|---|---|---|
+<!--   |<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/java-original.svg" alt="Java" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/html5-original-wordmark.svg" alt="html5" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/css3-original-wordmark.svg" alt="css3" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/git-scm-icon.svg" alt="git" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/github.svg" alt="github" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>|<code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>| -->
 
 ### :zap: Most used languages ❤️
 <p align="center">&nbsp;<img width="65%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
