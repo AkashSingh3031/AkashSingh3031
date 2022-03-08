@@ -9,7 +9,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/AkashSingh3031?logo=github)](https://github.com/AkashSingh3031?tab=repositories)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 
-#### `Social Networks:`
+### `Social Networks:`
 [![GitHub followers](https://img.shields.io/github/followers/AkashSingh3031?style=social)](https://github.com/AkashSingh3031?tab=followers)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/akash-singh3031/)
 [![Connect on WhatsApp](https://img.shields.io/badge/--WhatsApp?label=WhatsApp&logo=WhatsApp&style=social)](https://wa.me/919794423031)
@@ -24,7 +24,7 @@
 <!-- [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 [![Views on my Channel](https://img.shields.io/youtube/channel/views/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1) -->
 
-#### `Coding Profiles:`
+### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/--leetcode?label=LeetCode&logo=LeetCode&style=social)](https://leetcode.com/akashsingh3031)
 [![GeeksforGeeks](https://img.shields.io/badge/--geeksforgeeks?label=GeeksforGeeks&logo=GeeksforGeeks&style=social)](https://auth.geeksforgeeks.org/user/akashsingh3031/practice/)
 [![HackerRank](https://img.shields.io/badge/--hackerrank?label=HackerRank&logo=Hackerrank&style=social)](https://www.hackerrank.com/akashsingh3031)
