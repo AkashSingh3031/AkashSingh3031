@@ -46,7 +46,7 @@
   <a href="https://www.linkedin.com/in/akashsingh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" width="27px" /> </a>
   <a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" width="27px" /> </a>
   <a href="https://www.facebook.com/akashsingh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="27px" /> </a>
-  <a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="27px" /> </a>
+  <a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="40px" /> </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="27px"/> </a>
 <!--   <a href="mailto:akashsingh27101998@gmail.com"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Gmail_icon_(2020).svg" width="27px"/> </a> -->
 </details>
@@ -558,17 +558,17 @@
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Handshake.gif" height="30px"></h4>
 
 <p align="center">
-  <code><a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube"  width="45px" /></a></code>
-  <code><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></code>
-  <code><a href="https://www.linkedin.com/in/akashsingh3031/"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="Akash's linkedin" width="40px" /></a></code>  
-  <code><a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" alt="Akash's Instagram" width="40px" /></a></code>
-  <code><a href="https://www.facebook.com/akashsingh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="40px" /></a></code>
+  <code><a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube"  width="40px" /></a></code>
+  <code><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="30px"/> </a></code>
+  <code><a href="https://www.linkedin.com/in/akashsingh3031/"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="Akash's linkedin" width="30px" /></a></code>  
+  <code><a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" alt="Akash's Instagram" width="30px" /></a></code>
+  <code><a href="https://www.facebook.com/akashsingh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="30px" /></a></code>
   <code><a href="https://twitter.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="40px" /></a></code>
-  <code><a href="https://t.me/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="40px" /></a></code>
-  <code><a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="40px" /></a></code>
-  <code><a href="https://github.com/AkashSingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" width="40px"/></a></code> 
-  <code><a href="https://medium.com/@akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/medium.svg" width="40px"/></a></code>
-  <code><a href="https://www.kaggle.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/kaggle.png" width="20px"/></a></code>
+  <code><a href="https://t.me/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="30px" /></a></code>
+  <code><a href="https://wa.me/919794423031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="30px" /></a></code>
+  <code><a href="https://github.com/AkashSingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" width="30px"/></a></code> 
+  <code><a href="https://medium.com/@akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/medium.svg" width="30px"/></a></code>
+  <code><a href="https://www.kaggle.com/akashsingh3031" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/kaggle.png" width="15px"/></a></code>
 </p>
 
 <img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>
