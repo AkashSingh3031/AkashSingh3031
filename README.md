@@ -558,7 +558,7 @@
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Handshake.gif" height="30px"></h4>
 
 <p align="center">
-  <code><a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube"  width="40px" /></a></code>
+  <code><a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube"  width="40px" /></a></code>
   <code><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="30px"/> </a></code>
   <code><a href="https://www.linkedin.com/in/akashsingh3031/"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="Akash's linkedin" width="30px" /></a></code>  
   <code><a href="https://www.instagram.com/akash.singh3031/" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" alt="Akash's Instagram" width="30px" /></a></code>
