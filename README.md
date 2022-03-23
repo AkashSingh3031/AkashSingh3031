@@ -571,6 +571,6 @@
   <code><a href="https://www.kaggle.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/kaggle.png" alt="Akash's Kaggle" width="15px"/></a></code>
 </p>
 
-<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>
+<img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
 
 <img height="100%" alt="Bottom" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/bottom_header.svg"/>
