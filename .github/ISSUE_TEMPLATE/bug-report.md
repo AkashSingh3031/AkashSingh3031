@@ -15,10 +15,7 @@ labels: 'bug'
 ---
 
 ## 🐛 Bug Report
-
 (A clear and concise description of what the bug is.)
-
-### Have you read the [Contributing Guidelines](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/CONTRIBUTING.md)?
 
 **Describe the bug**
 - A clear and concise description of what the bug is.
