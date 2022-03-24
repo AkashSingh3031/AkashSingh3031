@@ -17,7 +17,7 @@ jobs:
           github_user_name: AkashSingh3031
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: AkashSingh3031/ghaction-github-pages@v2.1.3
         with:
           target_branch: master
           build_dir: dist
