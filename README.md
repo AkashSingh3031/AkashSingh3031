@@ -2,7 +2,7 @@
   <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
 </p>
 
-<h1 align="center"> Hello <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://akashsingh3031.github.io/CodeWithSky/"> Akash Singh </a><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="50px"></h1>
+<h1 align="center"> Hello <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://akashsingh3031.github.io/CodeWithSky/"> Akash Singh </a><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="50px"></h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AkashSingh3031.profileviews-badge)](https://github.com/AkashSingh3031)
@@ -272,7 +272,6 @@
 
 ![Akash's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
-<!-- # My Certificates [240]<p><img src="https://user-images.githubusercontent.com/60146338/134114969-62551dec-7aa9-4639-bc01-781a96e4b123.png" width="50px" height="50px"></p> -->
 <h1 align="center"> My Certificates [240] <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Certified.png" width="50px"></h1>
 
 <details>
@@ -582,7 +581,7 @@
 
 <br>
 
- <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Handshake.gif" height="30px"></h4>
+ <h3 align="center">Hey, Wait! <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"> don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Handshake.gif" height="30px"></h4>
 
 <p align="center">
   <code><a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="40px" /></a></code>
@@ -597,12 +596,12 @@
   <code><a href="https://medium.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/medium.svg" alt="Akash's Medium" width="30px"/></a></code>
   <code><a href="https://www.kaggle.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/kaggle.png" alt="Akash's Kaggle" width="15px"/></a></code>
   <code><a href="https://leetcode.com/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="25px"/></a></code>
-  <code><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks.png" alt="LeetCode" width="25px"/></a></code>
-  <code><a href="https://www.hackerrank.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="LeetCode" width="25px"/></a></code>
-  <code><a href="https://www.hackerearth.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" alt="LeetCode" width="25px"/></a></code>
-  <code><a href="https://www.interviewbit.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/InterviewBit.png" alt="LeetCode" width="30px"/></a></code>
+  <code><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks.png" alt="GeeksforGeeks" width="25px"/></a></code>
+  <code><a href="https://www.hackerrank.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="HackerRank" width="25px"/></a></code>
+  <code><a href="https://www.hackerearth.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" alt="HackerEarth" width="25px"/></a></code>
+  <code><a href="https://www.interviewbit.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/InterviewBit.png" alt="InterviewBit" width="30px"/></a></code>
 </p>
 
 <img align='center' height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/marquee.svg"/>
 
-<img height="100%" alt="Bottom" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/bottom_header.svg"/>
+<img height="100%" width="100%" alt="Bottom" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/bottom_header.svg"/>
