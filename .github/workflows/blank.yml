@@ -95,6 +95,8 @@ jobs:
           plugin_people_limit: 1000
           plugin_people_size: 28
           plugin_tweets: yes
+          plugin_tweets_url: https://twitter.com/akashsingh3031
+#           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
           repositories_forks: yes
           plugin_skyline: yes
           plugin_skyline_year: 2022
@@ -106,8 +108,8 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_threshold: C       
           plugin_achievements_secrets: yes   
-          plugin_achievements_limit: 0
-          plugin_achievements_display: compact   
+#           plugin_achievements_limit: 0
+#           plugin_achievements_display: compact   
           plugin_notable: yes
           plugin_tweets_attachments: yes
           plugin_support: yes
@@ -122,14 +124,11 @@ jobs:
           plugin_gists: yes
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: https://prepverse.github.io/
           plugin_followup: yes
           plugin_followup_sections: user
           plugin_languages: yes
           plugin_pagespeed_screenshot: yes
-          plugin_posts: yes
-          plugin_posts_limit: 2
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
           config_timezone: Asia/Kolkata
           plugin_languages_colors : "rainbow"
           plugin_languages_details: bytes-size, percentage
