@@ -285,6 +285,14 @@
 
 ![Akash's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
+### :zap: GitHub Metrics 📊
+<p align="center">
+  <a href="https://github.com/AkashSingh3031" target="_blank">
+    <img width="60%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github-metrics.svg"/>
+  </a>
+</p>
+
+
 <h1 align="center"> My Certificates [240] <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Certified.png" width="50px"></h1>
 
 <details>
