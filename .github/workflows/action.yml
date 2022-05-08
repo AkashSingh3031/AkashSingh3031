@@ -1,4 +1,4 @@
-name: GitHub metrics
+name: Metrics
 on:
   schedule:
     - cron: "21 6,18 * * *"
@@ -57,7 +57,7 @@ jobs:
           plugin_support: yes
           plugin_fortune: yes
           
-      - name: Personal metrics (detailed)
+      - name: Metrics (detailed)
         uses: lowlighter/metrics@master
         with:
           filename: metrics.detailed.svg
