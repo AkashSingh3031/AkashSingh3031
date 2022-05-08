@@ -288,7 +288,8 @@
 ### :zap: GitHub Metrics 📊
 <p align="center">
   <a href="https://github.com/AkashSingh3031" target="_blank">
-    <img width="75%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/github-metrics.svg"/>
+    <img width="75%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/metrics.svg"/>
+    <img width="75%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/metrics.detailed.svg"/>
   </a>
 </p>
 
