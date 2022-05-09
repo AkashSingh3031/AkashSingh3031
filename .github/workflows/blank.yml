@@ -69,8 +69,9 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.svg
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          base: "header, activity, community, repositories"
+          base: "header, activity, community, repositories, metadata"
           config_timezone: Asia/Kolkata
           plugin_achievements: yes      
           plugin_achievements_secrets: yes 
@@ -83,7 +84,14 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
+          plugin_calendar: yes
+          plugin_calendar_limit: 2
+          plugin_discussions: yes
+          plugin_discussions_categories_limit: 8
+          plugin_followup: yes
+          plugin_followup_sections: repositories
           plugin_fortune: yes
+          plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_facts: yes
@@ -92,42 +100,6 @@ jobs:
           plugin_introduction_title: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_lines: yes
-          plugin_music: no
-          plugin_notable: yes
-          plugin_people: yes
-          plugin_people_limit: 1000
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          repositories_forks: yes
-          plugin_reactions: yes
-          plugin_reactions_days: 14
-          plugin_reactions_limit: 200
-          plugin_reactions_details: percentage  
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_stargazers: yes
-          plugin_skyline: yes
-          plugin_skyline_frames: 120
-          plugin_skyline_year: 2022
-          plugin_support: yes
-          plugin_topics: yes
-          plugin_topics_sort: random
-#           plugin_tweets: yes
-#           plugin_tweets_attachments: yes
-#           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-#           plugin_tweets_url: https://twitter.com/akashsingh3031
-          
-      - name: Personal Metrics (detailed)
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.detailed.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: "metadata"
-          config_timezone: Asia/Kolkata
-          plugin_followup: yes
-          plugin_followup_sections: user
-          plugin_gists: yes
           plugin_languages: yes
           plugin_languages_colors : "rainbow"
           plugin_languages_details: bytes-size, percentage
@@ -136,8 +108,66 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_music: no
+          plugin_notable: yes
+          plugin_notable_from: all
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
+#           plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: https://prepverse.github.io/
+          plugin_people: yes
+          plugin_people_limit: 1000
+          plugin_people_size: 28
+          plugin_people_types: followers, following, contributors, stargazers, watchers
+          repositories_forks: yes
+          plugin_reactions: yes
+          plugin_reactions_days: 14
+          plugin_reactions_limit: 200
+          plugin_reactions_details: percentage  
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_limit: 2
+          plugin_stackoverflow_sections: answers-top
+          plugin_stackoverflow_user: 18910829
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: chartist
+          plugin_skyline: yes
+          plugin_skyline_frames: 120
+          plugin_skyline_year: 2022
+          plugin_support: yes
+          plugin_topics: yes
+          plugin_topics_limit: 20
+          plugin_topics_mode: labels
+          plugin_topics_sort: activity
+#           plugin_tweets: yes
+#           plugin_tweets_attachments: yes
+#           plugin_tweets_limit: 1
+#           plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+#           plugin_tweets_user: akashsingh3031
+          
+#       - name: Personal Metrics (detailed)
+#         uses: lowlighter/metrics@master
+#         with:
+#           filename: metrics.detailed.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           base: "metadata"
+#           config_timezone: Asia/Kolkata
+#           plugin_followup: yes
+#           plugin_followup_sections: user
+#           plugin_gists: yes
+#           plugin_languages: yes
+#           plugin_languages_colors : "rainbow"
+#           plugin_languages_details: bytes-size, percentage
+#           plugin_languages_limit: 8
+#           plugin_languages_recent_days: 14
+#           plugin_languages_recent_load: 300
+#           plugin_languages_sections: most-used
+#           plugin_languages_threshold: 0%
+#           plugin_pagespeed: yes
+#           plugin_pagespeed_detailed: yes
+#           plugin_pagespeed_url: https://prepverse.github.io/
 #           plugin_pagespeed_screenshot: yes
 
