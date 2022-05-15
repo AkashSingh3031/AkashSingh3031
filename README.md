@@ -87,6 +87,7 @@
 </table>
 
 ### :zap: GitHub Trophies 🏆
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img width="75%" src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dracula"/>
@@ -99,6 +100,7 @@
 </p>
 
 ### :zap: My Tech Toolbox 🧰
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <!-- 
 #### 👨‍💻 Programming languages
 
@@ -268,20 +270,27 @@
 </p>
 
 ### :zap: Most used languages ❤️
-<p align="center">&nbsp;<img width="65%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&hide=html&theme=dracula&hide_border=true">
-<br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img width="65%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&hide=html&theme=dracula&hide_border=true">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
     <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=dracula" alt=""><br>
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=dracula">
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=dracula"><br>
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=dracula">
   </a>
 </p>
 
 
 ### :zap: GitHub Stats
-<p align="center">&nbsp;
-  <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
-  <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=dracula" />
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
+    <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+    <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=dracula" />
+  </a>
 </p>
 
 
@@ -290,12 +299,12 @@
 ![Akash's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ### :zap: GitHub Metrics 📊
+<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/AkashSingh3031" target="_blank">
     <img width="75%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/metrics.svg"/>
   </a>
 </p>
-
 
 <h1 align="center"> My Certificates [240] <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Certified.png" width="50px"></h1>
 
