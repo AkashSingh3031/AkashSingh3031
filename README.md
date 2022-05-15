@@ -89,7 +89,8 @@
 ### :zap: GitHub Trophies 🏆
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img width="75%" src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dracula"/>
+<!--     <img width="75%" src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dracula"/> -->
+    <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dracula"/>
   </a>
 </p>
 
