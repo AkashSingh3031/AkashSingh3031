@@ -90,12 +90,12 @@
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <!-- <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img width="75%" src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dracula"/>
+    <img width="75%" src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
   </a>
 </p> -->
 <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=dracula"/>
+    <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
   </a>
 </p>
 
@@ -273,23 +273,22 @@
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img width="65%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&hide=html&theme=dracula&hide_border=true">
+    <img width="65%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most Used Languages">
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=dracula" alt=""><br>
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=dracula"><br>
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=dracula&utcOffset=5">
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=radical" alt=""><br>
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=radical"><br>
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=5">
   </a>
 </p>
-
 
 ### :zap: GitHub Stats
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
+    <img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&include_all_commits=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=नमस्ते 🙏 Programmers!&layout=compact" /><br><br>
     <img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-    <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=dracula" />
+    <img align="center" width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=radical" />
   </a>
 </p>
 
