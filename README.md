@@ -278,7 +278,7 @@
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank">
     <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=dracula" alt=""><br>
     <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=dracula"><br>
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=dracula">
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=dracula&utcOffset=5">
   </a>
 </p>
 
