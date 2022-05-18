@@ -77,7 +77,7 @@
     <tbody>
          <tr>
 <!--             <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"</a> <b><code> The Complete FAANG Preparation </b></code> </td> -->
-            <td><code><img alt="The Complete FAANG Preparation" src="https://img.shields.io/badge/The_Complete_FAANG_Preparation-orange?style=for-the-badge"/></code></td>
+            <td><code><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"><img alt="The Complete FAANG Preparation" src="https://img.shields.io/badge/The_Complete_FAANG_Preparation-orange?style=for-the-badge"/></a></code></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td>
             <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/> <br> <img alt="Open Issues" src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td>
