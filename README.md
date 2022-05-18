@@ -265,7 +265,7 @@
 <h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
   <a href="https://leetcode.com/akashsingh3031" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=akashsingh3031&theme=dark&extension=activity&border_radius=10"/>
+    <img width=60% src="https://leetcode.card.workers.dev/?username=akashsingh3031&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
   </a>
 </p>
 
