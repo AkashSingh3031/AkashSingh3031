@@ -69,19 +69,20 @@
             <td> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github.png" width="75px" height="75px"> </td>
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
-            <td><b>🐛 Issues</b></td>
-            <td><b>🔔 Open PRs</b></td>
-            <td><b>🔕 Close PRs</b></td>
+            <td><b>🔔 Open PRs / 🐛 Open Issues</b></td>
+<!--             <td><b>🔔 Open PRs</b></td> -->
+            <td><b>🔕 Close PRs / Close Issues</b></td>
         </tr>
      </thead>
     <tbody>
          <tr>
-            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"</a> <b><code> The Complete FAANG Preparation </b></code> </td>
+<!--             <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"</a> <b><code> The Complete FAANG Preparation </b></code> </td> -->
+            <td><code><img alt="The Complete FAANG Preparation" src="https://img.shields.io/badge/The_Complete_FAANG_Preparation-orange?style=for-the-badge"/></code></td>
             <td><img alt="Stars" src="https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td>
             <td><img alt="Forks" src="https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td>
-            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&color=critical&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/> <br> <img alt="Open Issues" src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td>
+<!--             <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td> -->
+            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&color=critical&logo=github"/> <br> <img alt="Close Issues" src="https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&color=critical&logo=github"/></td>
         </tr>
     </tbody>
 </table>
