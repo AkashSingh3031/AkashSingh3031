@@ -11,7 +11,7 @@
 
 ### `Social Networks:`
 [![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/AkashSingh3031?tab=followers)
-[![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/akash-singh3031/)
+[![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/akashsingh3031/)
 [![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-darkgreen?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=darkgreen)](https://wa.me/919794423031)
 [![Connect on Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1)](https://t.me/akashsingh3031)
 [![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/akashsingh3031/)
