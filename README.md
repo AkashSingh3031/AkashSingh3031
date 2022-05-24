@@ -59,7 +59,7 @@
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <p align="center">
   <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank">
-    <img width=60% src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical"/>
+    <img width=60% src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical&border_radius=20"/>
   </a>
 </p>
 
@@ -266,7 +266,7 @@
 <h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
   <a href="https://leetcode.com/akashsingh3031" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=akashsingh3031&theme=dark&font=source_code_pro&extension=activity&border_radius=10"/>
+    <img width=60% src="https://leetcode.card.workers.dev/?username=akashsingh3031&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
   </a>
 </p>
 
