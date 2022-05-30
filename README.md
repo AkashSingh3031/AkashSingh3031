@@ -104,7 +104,6 @@
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <!-- 
 #### 👨‍💻 Programming languages
-
 <p>
     <a href="https://github.com/search?q=user%3AAkashSingh3031+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AAkashSingh3031+language%3Ascratch"><img alt="Scratch" src="https://img.shields.io/badge/Scratch-4D97FF.svg?logo=scratch&logoColor=white"></a>
