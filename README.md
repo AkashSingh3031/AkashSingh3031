@@ -2,7 +2,7 @@
   <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
 </p>
 
-<h1 align="center"> Hello <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://prepverse.github.io"> Akash Singh </a> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="50px"></h1>
+<h1 align="center"> Hello <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://prepverse.github.io"> Akash Singh </a> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="50px" height="50px"></h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AkashSingh3031.profileviews-badge)](https://github.com/AkashSingh3031)
@@ -40,7 +40,7 @@
 
 - 🔭 I'm in the 4<sup>th</sup> year of B.Tech Computer Science.
 - 🌱 I’m currently working on Open-Source.
-- 👬 I’m looking to collaborate on [![`The-Complete`](https://img.shields.io/badge/The_Complete-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/MAANGM-Gray.gif" width="150px" /></a> [![`Preparation`](https://img.shields.io/badge/Preparation-green?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) Repository.
+- 👬 I’m looking to collaborate on [![`The-Complete`](https://img.shields.io/badge/The_Complete-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/MAANGM-Gray.gif" width="150px" height="30px" /></a> [![`Preparation`](https://img.shields.io/badge/Preparation-green?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) Repository.
 - :zap: I’m currently learning Web Development.
 - 🎯 I’m focusing on Data Science.
 - <details>
@@ -614,7 +614,7 @@
 
 <br>
 
- <h3 align="center">Hey, Wait! <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" style="max-width:100%;"> don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Handshake.gif" height="30px"></h4>
+ <h3 align="center">Hey, Wait! <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Handshake.gif" width="30px" height="30px"></h4>
 
 <p align="center">
   <code><a href="https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?view_as=subscriber" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="40px" /></a></code>
