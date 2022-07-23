@@ -70,18 +70,15 @@
             <td><b>🌟 Stars</b></td>
             <td><b>🍴 Forks</b></td>
             <td><b>🔔 Open PRs / 🐛 Open Issues</b></td>
-<!--             <td><b>🔔 Open PRs</b></td> -->
-            <td><b>🔕 Close PRs / Close Issues</b></td>
+            <td><b>🔕 Close PRs / 🔕 Close Issues</b></td>
         </tr>
      </thead>
     <tbody>
          <tr>
-<!--             <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"</a> <b><code> The Complete FAANG Preparation </b></code> </td> -->
             <td><code><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"><img alt="The Complete FAANG Preparation" src="https://img.shields.io/badge/The_Complete_FAANG_Preparation-orange?style=for-the-badge"/></a></code></td>
             <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=gold&labelColor=darkblue&color=gold"/></a></td>
             <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=gray&labelColor=darkblue&color=gray"/></a></td>
             <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls"><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=0f0&labelColor=darkblue"/></a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=0f0&labelColor=darkblue"/></a></td>
-<!--             <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github"/></td> -->
             <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls?q=is%3Apr+is%3Aclosed"><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plasticcal&logo=github&logoColor=critical&labelColor=darkblue&color=critical"/></a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues?q=is%3Aissue+is%3Aclosed"><img alt="Close Issues" src="https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=critical&labelColor=darkblue&color=critical"/></a></td>
         </tr>
     </tbody>
@@ -261,6 +258,13 @@
   |---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
   | <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=windows&logoColor=0078d7"></a>                            | <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F05033?style=flat&amp;labelColor=white&amp;logo=ubuntu&logoColor=F05033"></a>                            | <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-e0982c?style=flat&amp;labelColor=white&amp;logo=linux&logoColor=e0982c"></a>                                       | <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-FF6F00.svg?style=flat&amp;labelColor=white&amp;logo=google-colab&logoColor=FF6F00"></a>           | <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&amp;labelColor=white&amp;logo=Jupyter&logoColor=F37626"></a>                                 | <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=visual-studio-code&logoColor=0078d7"></a> | <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat&amp;labelColor=white&amp;logo=heroku&logoColor=430098"></a>                                 |
   
+<h2 align="center"> AkashSingh3031's profile on stardev.io </h2>
+<p align="center">
+  <a href="https://stardev.io/developers/AkashSingh3031" target="_blank">
+    <img width=60% src="https://stardev.io/developers/AkashSingh3031/badge/languages/country.svg"/>
+  </a>
+</p>
+
 <!-- LeetCode Stats Card ❤️ -->
 <h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
