@@ -38,8 +38,8 @@
 
 <br>
 
-- 🔭 I'm in the 4<sup>th</sup> year of B.Tech Computer Science.
-- 🌱 I’m currently working on Open-Source.
+- 🔭 I'm a 2022 Graduate and my branch is Computer Science.
+- 🌱 I’m currently working as a Python Developer.
 - 👬 I’m looking to collaborate on [![`The-Complete`](https://img.shields.io/badge/The_Complete-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/MAANGM-Gray.gif" width="150px" height="30px" /></a> [![`Preparation`](https://img.shields.io/badge/Preparation-green?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) Repository.
 - :zap: I’m currently learning Web Development.
 - 🎯 I’m focusing on Data Science.
