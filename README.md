@@ -26,13 +26,13 @@
 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akashsingh3031)
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akashsingh3031)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/akashsingh3031/practice)
+[![Coding Ninjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/codestudio/profile/bdc47f17-9010-41bc-9566-f6d3a001afcc)
 [![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile/akashsingh3031)
 [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com/@/akashsingh3031)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/akashsingh3031)
 [![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@akashsingh3031)
 [![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com/profile/akashsingh3031)
-[![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/codestudio/profile/bdc47f17-9010-41bc-9566-f6d3a001afcc)
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com/users/18910829/akashsingh3031)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/akashsingh3031)
 
@@ -634,8 +634,10 @@
   <code><a href="https://www.kaggle.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/kaggle.png" alt="Akash's Kaggle" width="15px"/></a></code>
   <code><a href="https://stackoverflow.com/users/18910829/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StackOverflow.png" alt="Stack Overflow" width="25px"/></a></code>
   <code><a href="https://leetcode.com/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="25px"/></a></code>
-  <code><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks.png" alt="GeeksforGeeks" width="25px"/></a></code>
-  <code><a href="https://workat.tech/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/workattech.png" alt="workat.tech" width="25px"/></a></code>
+  <code><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" alt="GeeksforGeeks" width="25px"/></a></code>
+  <code><a href="https://www.codingninjas.com/codestudio/profile/bdc47f17-9010-41bc-9566-f6d3a001afcc" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/Coding%20Ninjas.png" alt="Coding Ninjas" width="25px"/></a></code>
+  <code><a href="https://binarysearch.com/@/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/binarysearch.png" alt="binarysearch" width="25px"/></a></code>
+  <code><a href="https://workat.tech/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/workattech.png" alt="work@tech" width="25px"/></a></code>
   <code><a href="https://www.hackerrank.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="HackerRank" width="25px"/></a></code>
   <code><a href="https://www.hackerearth.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" alt="HackerEarth" width="25px"/></a></code>
   <code><a href="https://www.interviewbit.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/InterviewBit.png" alt="InterviewBit" width="30px"/></a></code>
