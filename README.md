@@ -6,6 +6,7 @@
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AkashSingh3031.profileviews-badge)](https://github.com/AkashSingh3031)
+[![GitHub followers](https://img.shields.io/github/followers/AkashSingh3031?style=social&logo=github)](https://github.com/AkashSingh3031?tab=followers)
 [![Repos Badge](https://badges.pufler.dev/repos/AkashSingh3031?logo=github)](https://github.com/AkashSingh3031?tab=repositories)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 
