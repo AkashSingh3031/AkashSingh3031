@@ -19,12 +19,12 @@
 [![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/akashsingh3031/)
 [![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/akash.singh3031/)
 [![Connect on Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&amp;labelColor=white&amp;logo=twitter&amp;logoColor=1ca0f1&amp)](https://twitter.com/intent/follow?screen_name=akashsingh3031)
-[![Twitter followers](https://img.shields.io/twitter/follow/akashsingh3031?style=social)](https://twitter.com/intent/follow?screen_name=akashsingh3031)
-[![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](mailto:akashsingh27101998@gmail.com)
+[![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm)
 [![Subscribe to my Channel](https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 [![Connect on Medium](https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=white&amp;logo=medium&amp;logoColor=black)](https://medium.com/@akashsingh3031)
-<!-- [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
-[![Views on my Channel](https://img.shields.io/youtube/channel/views/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1) -->
+<!-- [![Twitter followers](https://img.shields.io/twitter/follow/akashsingh3031?style=social)](https://twitter.com/intent/follow?screen_name=akashsingh3031) -->
+<!-- [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/@akashsingh3031?style=social)](https://www.youtube.com/channel/@akashsingh3031?sub_confirmation=1)
+[![Views on my Channel](https://img.shields.io/youtube/channel/views/@akashsingh3031?style=social)](https://www.youtube.com/channel/@akashsingh3031?sub_confirmation=1) -->
 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akashsingh3031)
@@ -42,18 +42,20 @@
 
 - 🔭 I'm a 2022 Graduate and my branch is Computer Science.
 - 🌱 I’m currently working as a Python Developer.
-- 👬 I’m looking to collaborate on [![`The-Complete`](https://img.shields.io/badge/The_Complete-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/MAANGM-Gray.gif" width="150px" height="30px" /></a> [![`Preparation`](https://img.shields.io/badge/Preparation-green?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) Repository.
-- :zap: I’m currently learning Web Development.
+- 👬 I’m looking to collaborate on [![`The-Complete`](https://img.shields.io/badge/The_Complete-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM.gif" width="175px" height="40px" /></a> [![`Preparation`](https://img.shields.io/badge/Preparation-green?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) Repository.
+- :zap: I’m currently learning Project Management Skills.
 - 🎯 I’m focusing on Data Science.
 - <details>
   <summary>📫  How to reach me :</summary>
-  <a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a>
-  <a href="https://t.me/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="27px" /> </a>
-  <a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" width="27px" /> </a>
-  <a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" width="27px" /> </a>
-  <a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="27px" /> </a>
-  <a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="27px" /> </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="27px"/> </a>
+  <table>
+  <td><a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a></td>
+  <td><a href="https://t.me/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="27px" /> </a></td>
+  <td><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" width="27px" /> </a></td>
+  <td><a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" width="27px" /> </a></td>
+  <td><a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="27px" /> </a>
+  <td><a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="27px" /> </a></td>
+  <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="27px"/> </a></td>
+</table>
 </details>
 
 <br>
