@@ -320,9 +320,9 @@
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <div align="center">
   
-  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!&layout=compact"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true" /></a> |
   |---|---|
-  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=radical" /></a> |  |
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=radical" /></a> | <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AkashSingh3031&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a> |
   
 </div>
 
