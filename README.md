@@ -8,6 +8,7 @@
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=AkashSingh3031.profileviews-badge)](https://github.com/AkashSingh3031)
 [![GitHub followers](https://img.shields.io/github/followers/AkashSingh3031?style=social&logo=github)](https://github.com/AkashSingh3031?tab=followers)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031)](https://leetcode.com/akashsingh3031)
 
 ### `Social Networks:`
 <table border="3">
