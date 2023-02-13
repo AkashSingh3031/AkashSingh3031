@@ -92,6 +92,15 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/akashsingh3031) -->
 <!-- [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com/@/akashsingh3031) -->
 
+## `Achivements:`
+<table border="3">
+  <td align="center"><a href="https://www.youtube.com/watch?v=2Rwfb84tqI8&t=279s" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60146338/218552527-b5d8ab82-4e5c-4351-bd7e-d4b4835c5a23.png" alt="Gate Math Book Winner (AIR-1)" width="500"/></a></td>
+  <td align="center"><a href="https://youtu.be/sJXz_iHikzs" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60146338/218555344-89d89e35-41e7-40b1-bac1-b3d381247c3a.png" alt="NextLevel Interviwe" width="500"/></a></td>
+  <tr>
+    <td align="center"><a href="https://www.youtube.com/watch?v=2Rwfb84tqI8&t=279s"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
+    <td align="center"><a href="https://youtu.be/sJXz_iHikzs"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
+</table>
+
 <br>
 
 - 🔭 I'm a 2022 Graduate and my branch is Computer Science.
