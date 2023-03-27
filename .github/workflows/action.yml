@@ -40,11 +40,11 @@ jobs:
           plugin_activity_visibility: all
           plugin_calendar: yes
           plugin_calendar_limit: 3
-          plugin_code: yes
-          plugin_code_languages: python, cpp
-          plugin_code_load: 400
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
+#           plugin_code: yes
+#           plugin_code_languages: python, cpp
+#           plugin_code_load: 400
+#           plugin_contributors: yes
+#           plugin_contributors_contributions: yes
 #           plugin_contributors_sections: categories
 #           plugin_contributors_categories: |
 #             {
@@ -79,8 +79,8 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_leetcode: yes
           plugin_leetcode_sections: solved, skills, recent
-          plugin_licenses: yes
-          plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
+#           plugin_licenses: yes
+#           plugin_licenses_setup: bash -c '[[ -f package.json ]] && npm ci || true'
 #           plugin_licenses_legal: no
 #           plugin_licenses_ratio: yes
           plugin_lines: yes
@@ -95,7 +95,7 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 1000
           plugin_people_size: 28
-          plugin_people_types: followers, following, contributors, stargazers, watchers, sponsors
+          plugin_people_types: followers, following, contributors, stargazers, watchers
 #           repositories_forks: yes
 #           plugin_posts: yes
 #           plugin_posts_source: dev.to
@@ -109,15 +109,15 @@ jobs:
           plugin_reactions_details: percentage 
           plugin_repositories: yes
 #           plugin_repositories_featured: AkashSingh3031/The-Complete-FAANG-Preparation
-          plugin_repositories_pinned: 2
-          plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day
-          plugin_screenshot_url: https://xkcd.com
-          plugin_screenshot_selector: "#comic img"
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, list
-          plugin_sponsors_past: yes
-          plugin_sponsorships: yes 
+#           plugin_repositories_pinned: 2
+#           plugin_screenshot: yes
+#           plugin_screenshot_title: XKCD of the day
+#           plugin_screenshot_url: https://xkcd.com
+#           plugin_screenshot_selector: "#comic img"
+#           plugin_sponsors: yes
+#           plugin_sponsors_sections: goal, list
+#           plugin_sponsors_past: yes
+#           plugin_sponsorships: yes 
           plugin_stackoverflow: yes
           plugin_stackoverflow_limit: 2
           plugin_stackoverflow_sections: answers-top
