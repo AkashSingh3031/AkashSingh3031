@@ -125,33 +125,54 @@
 <br>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
+<!-- 
 <p align="center">
   <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank">
     <img width=60% src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical&border_radius=20"/>
   </a>
 </p>
+-->
 
-<table align="center">
-    <thead align="center">
-        <tr border: 1px;>
-            <td> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github.png" width="75px" height="75px"> </td>
-            <td><b>⭐ Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-            <td><b>🔔 Open PRs <br> 🐛 Open Issues</b></td>
-            <td><b>🔕 Close PRs <br> 🔕 Close Issues</b></td>
-            <td><b>👨‍💻 Total Languages <br> 💻 Top Language</b></td>
+<table align="center" border="3">
+    <thead align="center" valign="center">
+      <tr>
+        <th colspan="6">
+          <p align="center">
+            <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank">
+              <img width=60% src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical&border_radius=20"/>
+            </a>
+          </p>
+        </th>
+      </tr>
+    </thead>
+    <tbody align="center">
+        <tr>
+            <td rowspan="2"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github.png" width="75px" height="75px"> </td>
+            <td rowspan="2"><b>⭐ Stars</b></td>
+            <td rowspan="2"><b>🍴 Forks</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
+            <td><b>👨‍💻 Total Languages</b></td>
         </tr>
-     </thead>
-    <tbody>
          <tr>
-            <td><code><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"><img alt="The Complete FAANG Preparation" src="https://img.shields.io/badge/The_Complete_FAANG_Preparation-orange?style=for-the-badge"/></a></code></td>
-            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=gold&labelColor=darkblue&color=gold"/></a></td>
-            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=gray&labelColor=darkblue&color=gray"/></a></td>
-            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls"><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=0f0&labelColor=darkblue"/></a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=0f0&labelColor=darkblue"/></a></td>
-            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls?q=is%3Apr+is%3Aclosed"><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plasticcal&logo=github&logoColor=critical&labelColor=darkblue&color=critical"/></a> <br> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues?q=is%3Aissue+is%3Aclosed"><img alt="Close Issues" src="https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=critical&labelColor=darkblue&color=critical"/></a></td>
-            <td><a href=""><img alt="Total Languages" src="https://img.shields.io/github/languages/count/AkashSingh3031/The-Complete-FAANG-Preparation?style=plasticcal&logo=github&logoColor=green&labelColor=darkblue&color=crimson"/></a> <br> <a href=""><img alt="Top Language" src="https://img.shields.io/github/languages/top/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=green&labelColor=darkblue&color=crimson"/></a></td>
+            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls"><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=0f0&labelColor=darkblue"/></a></td>
+            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls?q=is%3Apr+is%3Aclosed"><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plasticcal&logo=github&logoColor=critical&labelColor=darkblue&color=critical"/></a></td>
+            <td><a href=""><img alt="Total Languages" src="https://img.shields.io/github/languages/count/AkashSingh3031/The-Complete-FAANG-Preparation?style=plasticcal&logo=github&logoColor=green&labelColor=darkblue&color=crimson"/></a></td>
         </tr>
-    </tbody>
+        <tr>
+            <td rowspan="2"><code><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"><img alt="The Complete FAANG Preparation" src="https://img.shields.io/badge/The_Complete_FAANG_Preparation-orange?style=for-the-badge"/></a></code></td>
+            <td rowspan="2"><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=gold&labelColor=darkblue&color=gold"/></a></td>
+            <td rowspan="2"><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members"><img alt="Forks" src="https://img.shields.io/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=gray&labelColor=darkblue&color=gray"/></a></td>
+            <td><b>🐛 Open Issues</b></td>
+            <td><b>🔕 Close Issues</b></td>
+            <td><b>💻 Top Language</b></td>
+        </tr>
+         <tr>
+            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=0f0&labelColor=darkblue"/></a></td>
+            <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues?q=is%3Aissue+is%3Aclosed"><img alt="Close Issues" src="https://img.shields.io/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=critical&labelColor=darkblue&color=critical"/></a></td>
+            <td><a href=""><img alt="Top Language" src="https://img.shields.io/github/languages/top/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=github&logoColor=green&labelColor=darkblue&color=crimson"/></a></td>
+        </tr>
+     </tbody>
 </table>
 
 ### :zap: GitHub Trophies 🏆
@@ -354,7 +375,7 @@
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <div align="center">
   
-  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"> <img width="100%" height="100%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=compact&langs_count=10&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=radical" alt=""></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"> <img width="100%" height="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=pie&langs_count=20&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=radical" alt=""></a> |
   |---|---|
   | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=radical"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=8"></a> |
   
@@ -364,7 +385,7 @@
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
 <div align="center">
   
-  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&hide_border=true&show_owner=true&title_color=ff6e96&theme=radical&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&include_all_commits=true&hide_border=true&title_color=ff6e96&theme=radical&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true" /></a> |
   |---|---|
   | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=radical" /></a> | <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AkashSingh3031&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a> |
   
