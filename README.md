@@ -101,6 +101,85 @@
     <td align="center"><a href="https://youtu.be/sJXz_iHikzs"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
 </table>
 
+### `Leetcode Badge List`
+<table border="5">
+  <td align="center">
+    <table border="3">
+      <td colspan="6" align="center"><h3>Competition Medals</h3></td>
+      <tr>
+      <td colspan="6" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual.gif" alt="LeetCode Badge" width="120" /></a></td>
+    </table>
+  </td> 
+  <tr> 
+  <td align="center">
+    <table border="3">
+      <td colspan="6" align="center"><h1>Daily Medals</h1></td>
+      <tr>
+      <td colspan="6" align="center"><h3>2021</h3></td>
+      <tr>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-08.gif" alt="LeetCode Badge" width="80" /></a><br>Aug<br>2021-08-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-09.gif" alt="LeetCode Badge" width="80" /></a><br>Sep<br>2021-09-30</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-10.gif" alt="LeetCode Badge" width="80" /></a><br>Oct<br>2021-10-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-11.gif" alt="LeetCode Badge" width="80" /></a><br>Nov<br>2021-11-30</td>
+      <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-12.gif" alt="LeetCode Badge" width="80" /></a><br>Dec<br>2021-12-31</td>
+      <tr>
+      <td colspan="6" align="center"><h3>2022</h3></td>
+      <tr>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-01.gif" alt="LeetCode Badge" width="80" /></a><br>Jan<br>2022-01-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-02.gif" alt="LeetCode Badge" width="80" /></a><br>Feb<br>2022-02-28</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-03.gif" alt="LeetCode Badge" width="80" /></a><br>Mar<br>2022-03-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-04.gif" alt="LeetCode Badge" width="80" /></a><br>Apr<br>2022-04-30</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-05.gif" alt="LeetCode Badge" width="80" /></a><br>May<br>2022-05-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-06.gif" alt="LeetCode Badge" width="80" /></a><br>Jun<br>2022-06-30</td>
+      <tr>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-07.gif" alt="LeetCode Badge" width="80" /></a><br>Jul<br>2022-07-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif" alt="LeetCode Badge" width="80" /></a><br>Aug<br>2022-08-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif" alt="LeetCode Badge" width="80" /></a><br>Sep<br>2022-09-30</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-10.gif" alt="LeetCode Badge" width="80" /></a><br>Oct<br>2022-10-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-11.gif" alt="LeetCode Badge" width="80" /></a><br>Nov<br>2022-11-30</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="LeetCode Badge" width="80" /></a><br>Dec<br>2022-12-31</td>
+      <tr>
+      <td colspan="6" align="center"><h3>2023</h3></td>
+      <tr>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" alt="LeetCode Badge" width="80" /></a><br>Jan<br>2023-01-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" alt="LeetCode Badge" width="80" /></a><br>Feb<br>2023-02-28</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" alt="LeetCode Badge" width="80" /></a><br>Mar<br>2023-03-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" alt="LeetCode Badge" width="80" /></a><br>Apr<br>2023-04-30</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" alt="LeetCode Badge" width="80" /></a><br>May<br>2023-05-31</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" alt="LeetCode Badge" width="80" /></a><br>Jun<br>2023-06-30</td>
+    </table>
+  </td>
+  <tr>
+  <td align="center">
+    <table border="3">
+      <td colspan="6" align="center"><h1>Study Plan Medals</h1></td>
+      <tr>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills I</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills II</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_I.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur I</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_II.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur II</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm I</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm II</td>
+      <tr>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search I</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%9F%BA%E7%A1%80.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search II</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DP_I.png" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming I</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%9B%BE%E8%AE%BA-optimize.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory I</td>
+      <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQLI.gif" alt="LeetCode Badge" width="80" /></a><br>SQL I</td>
+<!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQLI.gif" alt="LeetCode Badge" width="80" /></a><br>SQL I</td> -->
+      <tr>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Level I</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/LC-75.gif" alt="LeetCode Badge" width="80" /></a><br>Level II</td>
+      <td colspan="4" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="LeetCode Badge" width="80" /></a><br>LeetCode 75</td>
+    <!--       
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif" alt="LeetCode Badge" width="80" /></a></td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-10.gif" alt="LeetCode Badge" width="80" /></a></td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-11.gif" alt="LeetCode Badge" width="80" /></a></td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="LeetCode Badge" width="80" /></a></td> 
+    -->
+    </table>
+  </td>
+</table>
 <br>
 
 - 🔭 I'm a 2022 Graduate and my branch is Computer Science.
