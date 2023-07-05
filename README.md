@@ -171,7 +171,7 @@
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search I</td>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%9F%BA%E7%A1%80.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search II</td>
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>Binary Search III</td> -->
-<!--       <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Binary_Search.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search</td> -->
+      <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Binary_Search.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search</td>
       <tr>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DP_I.png" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming I</td>
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming II</td> -->
@@ -180,7 +180,7 @@
       <tr>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%9B%BE%E8%AE%BA-optimize.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory I</td>
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>Graph Theory II</td> -->
-<!--       <td colspan="4" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Graph_Theory.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory</td> -->
+      <td colspan="4" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Graph_Theory.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory</td>
       <tr>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Level I</td>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/LC-75.gif" alt="LeetCode Badge" width="80" /></a><br>Level II</td>
