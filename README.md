@@ -186,8 +186,8 @@
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/LC-75.gif" alt="LeetCode Badge" width="80" /></a><br>Level II</td>
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>Level III</td> -->
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="LeetCode Badge" width="80" /></a><br>LeetCode 75</td>
-<!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" alt="LeetCode Badge" width="80" /></a><br>Top Interview 150</td> -->
-<!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="LeetCode Badge" width="80" /></a><br>Top 100 Liked</td> -->
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" alt="LeetCode Badge" width="80" /></a><br>Top Interview 150</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="LeetCode Badge" width="80" /></a><br>Top 100 Liked</td>
       <tr>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQLI.gif" alt="LeetCode Badge" width="80" /></a><br>SQL I</td>
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>SQL II</td> -->
@@ -260,19 +260,23 @@
           <tr>
           <td>Basics of C++</td>
           <tr>
+          <td>Oops in C++</td>
+          <tr>
           <td>Basics of python</td>
           <tr>
+          <td>Core Python Essentials</td>
+          <tr>
+          <td>Oops in Python</td>
+          <tr>
           <td>Basics of Java</td>
+          <tr>
+          <td>Oops in Java</td>
           <tr>
           <td>Basics of JavaScript</td>
           <tr>
           <td>Basics of Node</td>
           <tr>
-          <td>Oops in C++</td>
-          <tr>
-          <td>Oops in Python</td>
-          <tr>
-          <td>Oops in Java</td>
+          <td>Basics of Angular</td>
           <tr>
           <td>Interview Guide for Product Based Companies</td>
           <tr>
@@ -281,6 +285,8 @@
           <td>System Design</td>
           <tr>
           <td>Flutter</td>
+          <tr>
+          <td>Blockchain</td>
         </table>
         <hr>
         <table border="1">
