@@ -175,8 +175,8 @@
       <tr>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DP_I.png" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming I</td>
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming II</td> -->
-<!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming-.gif" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming</td> -->
-<!--       <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming_Grandmaster.gif" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming Grandmaster</td> -->
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming-.gif" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming</td>
+      <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming_Grandmaster.gif" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming Grandmaster</td>
       <tr>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%9B%BE%E8%AE%BA-optimize.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory I</td>
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>Graph Theory II</td> -->
