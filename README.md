@@ -192,8 +192,8 @@
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQLI.gif" alt="LeetCode Badge" width="80" /></a><br>SQL I</td>
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>SQL II</td> -->
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>SQL III</td> -->
-<!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="LeetCode Badge" width="80" /></a><br>SQL 50</td> -->
-<!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif" alt="LeetCode Badge" width="80" /></a><br>Advanced SQL 50</td> -->
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="LeetCode Badge" width="80" /></a><br>SQL 50</td>
+      <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif" alt="LeetCode Badge" width="80" /></a><br>Advanced SQL 50</td>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="LeetCode Badge" width="80" /></a><br>30 Days of JavaScript</td>
     </table>
   </td>
