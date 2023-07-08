@@ -50,7 +50,7 @@
   <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=F78D1A&logo=coding%20ninjas&svgfill=white"></a></td>
   <td align="center"><a href="https://workat.tech/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=work@tech&svgfill=white"></a></td>
   <td align="center"><a href="https://www.hackerrank.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=hackerrank&svgfill=white"></a></td>
-    <tr>
+  <tr>
   <td align="center"><a href="https://www.hackerearth.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" alt="HackerEarth" width="55"/></a></td>
   <td align="center"><a href="https://www.interviewbit.com/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/InterviewBit.png" alt="InterviewBit" width="65" hright="65"/></a></td>
   <td align="center"><a href="https://www.stopstalk.com/user/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StopStalk.png" alt="StopStalk" width="65"/></a></td>
@@ -166,7 +166,7 @@
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm I</td>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm II</td>
 <!--       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>Algorithm III</td> -->
-<!--       <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Premium_Algo_100.gif" alt="LeetCode Badge" width="80" /></a><br>Premium Algo 100</td> -->
+      <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Premium_Algo_100.gif" alt="LeetCode Badge" width="80" /></a><br>Premium Algo 100</td>
       <tr>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search I</td>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%9F%BA%E7%A1%80.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search II</td>
@@ -206,7 +206,7 @@
       <td colspan="6" align="center"><h3>Contest Ranks</h3></td>
       <tr>
       <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_3-24341.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>28</b> Gold <br> 1st Rank</td>
-      <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_2-24340.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>5</b> Silver <br> 2nd-5th Rank</td>
+      <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_2-24340.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>6</b> Silver <br> 2nd-5th Rank</td>
       <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_1-24339.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>1</b> Bronze <br> 6th-10th Rank</td>
     </table>
   </td> 
@@ -253,52 +253,74 @@
           <td>Graph</td>
         </table>
       </td>
-      <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_3-24344.svg" alt="CodeStudio Badge" width="80" /></a><br><b>16</b> Sensei</td>
+      <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_3-24344.svg" alt="CodeStudio Badge" width="80" /></a><br><b>24</b> Sensei</td>
       <td valign="top">
         <table border="1">
-          <th><h3><code>Guided path:</code></h3></th>
+          <th colspan="2"><h3><code>Guided path:</code></h3></th>
           <tr>
-          <td>Aptitude preparation</td>
+          <td rowspan="7">Data Structures and Algorithms</td>
+          <td><details><summary>Basics of C++</summary><img src="https://files.codingninjas.in/certi_image207525d5fa99306964a9298cd4474a05e6547b.jpg" width="150"/></details></td>
           <tr>
-          <td>Basics of C++</td>
+          <td><details><summary>Oops in C++</summary><img src="https://files.codingninjas.in/certi_image267344cc690fdb5fee927e1dbf64a28f9c5fa7.jpg" width="150"/></details></td>
           <tr>
-          <td>Oops in C++</td>
+          <td><details><summary>Basics of Python</summary><img src="https://files.codingninjas.in/certi_image326840dfa1247c3db0da485e07843a818456f5.jpg" width="150"></details></td>
           <tr>
-          <td>Basics of python</td>
+          <td><details><summary>Core Python Essentials</summary><img src="#" width="150"></details></td>
           <tr>
-          <td>Core Python Essentials</td>
+          <td><details><summary>Oops in Python</summary><img src="https://files.codingninjas.in/certi_image323996c98628e1a54b5f470bbeed2c1cdee250.jpg" width="150"></details></td>
           <tr>
-          <td>Oops in Python</td>
+          <td><details><summary>Basics of Java</summary><img src="https://files.codingninjas.in/certi_image33252343cb26b8b16c83c29689e59f56d82250.jpg" width="150"></details></td>
           <tr>
-          <td>Basics of Java</td>
+          <td><details><summary>Oops in Java</summary><img src="https://files.codingninjas.in/certi_image3240105a2fa8f3f2012d0ac811adc758d33db6.jpg" width="150"></details></td>
           <tr>
-          <td>Oops in Java</td>
+          <td rowspan="6">Interview Preparation</td>
+          <td><details><summary>Aptitude Preparation</summary><img src="#" width="150"></details></td>
           <tr>
-          <td>Basics of JavaScript</td>
+          <td><details><summary>Operating System (OS)</summary><img src="#" width="150"></details></td>
           <tr>
-          <td>Basics of Node</td>
+          <td><details><summary>Database Management Systems (DBMS)</summary><img src="#" width="150"></details></td>
           <tr>
-          <td>Basics of Angular</td>
+          <td><details><summary>Interview Guide for Product Based Companies</summary><img src="#" width="150"></details></td>
           <tr>
-          <td>Interview Guide for Product Based Companies</td>
+          <td><details><summary>Top 150 Interview Puzzles</summary><img src="#" width="150"></details></td>
           <tr>
-          <td>Top 150 Interview Puzzles</td>
+          <td><details><summary>System Design</summary><img src="#" width="150"></details></td>
           <tr>
-          <td>System Design</td>
+          <td rowspan="8">Web/App development</td>
+          <td><details><summary>Basics of HTML</summary><img src="#" width="150"></details></td>
           <tr>
-          <td>Flutter</td>
+          <td><details><summary>Basics of CSS</summary><img src="#" width="150"></details></td>
           <tr>
-          <td>Blockchain</td>
+          <td><details><summary>Basics of JavaScript</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td><details><summary>Basics of React</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td><details><summary>Basics of Angular</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td><details><summary>Basics of Node</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td><details><summary>Fundamentals of React Native</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td><details><summary>Flutter</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td rowspan="2">Data Science / Machine Learning</td>
+          <td><details><summary>Basics of Machine Learning</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td><details><summary>Data Science</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td rowspan="1">New Tech</td>
+          <td><details><summary>Blockchain</summary><img src="#" width="150"></details></td>
         </table>
       </td>
       <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_special_gp_level_3-24350.svg" alt="CodeStudio Badge" width="80" /></a><br><b>2</b> Sensei</td>
       <td valign="top">
         <table border="1">
-          <th><h3><code>Special Guided path:</code></h3></th>
+          <th colspan="2"><h3><code>Special Guided path:</code></h3></th>
           <tr>
-          <td>Data Structures and Algorithm</td>
+          <td rowspan="2">Data Structures and Algorithms</td>
+          <td><details><summary>Data Structures and Algorithm</summary><img src="https://files.codingninjas.in/certi_image261826bedebf8b60a87b6b113e4bc2d56b5f96.jpg" width="150"></details></td>
           <tr>
-          <td>Competitive programming</td>
+          <td><details><summary>Competitive programming</summary><img src="https://files.codingninjas.in/certi_image26064193ed4a62d4c825528fbd4a8a537433d0.jpg" width="150"></details></td>
         </table>
       </td>
     </table>
