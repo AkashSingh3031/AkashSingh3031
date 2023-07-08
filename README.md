@@ -253,10 +253,12 @@
           <td>Graph</td>
         </table>
       </td>
-      <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_3-24344.svg" alt="CodeStudio Badge" width="80" /></a><br><b>15</b> Sensei<hr><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_2-24343.svg" alt="CodeStudio Badge" width="80" /></a><br><b>1</b> Samurai</td>
+      <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_3-24344.svg" alt="CodeStudio Badge" width="80" /></a><br><b>16</b> Sensei</td>
       <td valign="top">
         <table border="1">
           <th><h3><code>Guided path:</code></h3></th>
+          <tr>
+          <td>Aptitude preparation</td>
           <tr>
           <td>Basics of C++</td>
           <tr>
@@ -287,12 +289,6 @@
           <td>Flutter</td>
           <tr>
           <td>Blockchain</td>
-        </table>
-        <hr>
-        <table border="1">
-          <th><h3><code>Guided path:</code></h3></th>
-          <tr>
-          <td>Aptitude preparation</td>
         </table>
       </td>
       <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_special_gp_level_3-24350.svg" alt="CodeStudio Badge" width="80" /></a><br><b>2</b> Sensei</td>
