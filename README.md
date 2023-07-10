@@ -253,25 +253,29 @@
           <td>Graph</td>
         </table>
       </td>
-      <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_3-24344.svg" alt="CodeStudio Badge" width="80" /></a><br><b>24</b> Sensei</td>
+      <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_3-24344.svg" alt="CodeStudio Badge" width="80" /></a><br><b>26</b> Sensei</td>
       <td valign="top">
         <table border="1">
           <th colspan="2"><h3><code>Guided path:</code></h3></th>
           <tr>
-          <td rowspan="7">Data Structures and Algorithms</td>
-          <td><details><summary>Basics of C++</summary><img src="https://files.codingninjas.in/certi_image207525d5fa99306964a9298cd4474a05e6547b.jpg" width="150"/></details></td>
+          <td rowspan="9">Data Structures and Algorithms</td>
+          <td><details><summary>Basics of C++</summary><img src="#" width="150"/></details></td>
           <tr>
-          <td><details><summary>Oops in C++</summary><img src="https://files.codingninjas.in/certi_image267344cc690fdb5fee927e1dbf64a28f9c5fa7.jpg" width="150"/></details></td>
+          <td><details><summary>Oops in C++</summary><img src="#" width="150"/></details></td>
           <tr>
-          <td><details><summary>Basics of Python</summary><img src="https://files.codingninjas.in/certi_image326840dfa1247c3db0da485e07843a818456f5.jpg" width="150"></details></td>
+          <td><details><summary>Basics of Python</summary><img src="#" width="150"></details></td>
           <tr>
           <td><details><summary>Core Python Essentials</summary><img src="#" width="150"></details></td>
           <tr>
-          <td><details><summary>Oops in Python</summary><img src="https://files.codingninjas.in/certi_image323996c98628e1a54b5f470bbeed2c1cdee250.jpg" width="150"></details></td>
+          <td><details><summary>Oops in Python</summary><img src="#" width="150"></details></td>
           <tr>
-          <td><details><summary>Basics of Java</summary><img src="https://files.codingninjas.in/certi_image33252343cb26b8b16c83c29689e59f56d82250.jpg" width="150"></details></td>
+          <td><details><summary>Basics of Java</summary><img src="#" width="150"></details></td>
           <tr>
-          <td><details><summary>Oops in Java</summary><img src="https://files.codingninjas.in/certi_image3240105a2fa8f3f2012d0ac811adc758d33db6.jpg" width="150"></details></td>
+          <td><details><summary>Fundamentals of Java</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td><details><summary>Essentials of Core Java</summary><img src="#" width="150"></details></td>
+          <tr>
+          <td><details><summary>Oops in Java</summary><img src="#" width="150"></details></td>
           <tr>
           <td rowspan="6">Interview Preparation</td>
           <td><details><summary>Aptitude Preparation</summary><img src="#" width="150"></details></td>
