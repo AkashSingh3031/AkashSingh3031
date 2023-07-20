@@ -45,9 +45,9 @@
   <td align="center"><a href="https://workat.tech/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/workattech.png" alt="work@tech" width="65"/></a></td>
   <td align="center"><a href="https://www.hackerrank.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="HackerRank" width="55"/></a></td>
   <tr>
-  <td align="center"><a href="https://leetcode.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=FF7F50&logo=leetcode&svgfill=white"></a></td>
+  <td align="center"><a href="https://leetcode.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=D29613&logo=leetcode&svgfill=black"></a></td>
   <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=geeksforgeeks&svgfill=white"></a></td>
-  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=FF7F50&logo=Coding%20Ninjas%20Studio&svgfill=darkblue"></a></td>
+  <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=fA7328&logo=Coding%20Ninjas%20Studio&svgfill=darkblue"></a></td>
   <td align="center"><a href="https://workat.tech/profile/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=blue&logo=work@tech&svgfill=white"></a></td>
   <td align="center"><a href="https://www.hackerrank.com/akashsingh3031"><img src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=hackerrank&svgfill=white"></a></td>
   <tr>
