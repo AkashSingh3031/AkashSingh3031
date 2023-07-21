@@ -109,21 +109,26 @@
   <td align="center"><a href="https://www.youtube.com/watch?v=2Rwfb84tqI8&t=279s" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60146338/218552527-b5d8ab82-4e5c-4351-bd7e-d4b4835c5a23.png" alt="Gate Math Book Winner (AIR-1)" width="500"/></a></td>
   <td align="center"><a href="https://youtu.be/sJXz_iHikzs" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60146338/218555344-89d89e35-41e7-40b1-bac1-b3d381247c3a.png" alt="NextLevel Interviwe" width="500"/></a></td>
   <tr>
-    <td align="center"><a href="https://www.youtube.com/watch?v=2Rwfb84tqI8&t=279s"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
-    <td align="center"><a href="https://youtu.be/sJXz_iHikzs"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
+  <td align="center"><a href="https://www.youtube.com/watch?v=2Rwfb84tqI8&t=279s"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
+  <td align="center"><a href="https://youtu.be/sJXz_iHikzs"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
 </table>
 
 ### `Leetcode Badge List`
 <table border="5">
   <td align="center">
+  <details>
+    <summary>Competition Medals</summary>
     <table border="3">
       <td colspan="6" align="center"><h3>Competition Medals</h3></td>
       <tr>
       <td colspan="6" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual.gif" alt="LeetCode Badge" width="120" /></a></td>
     </table>
+  </details>
   </td> 
   <tr> 
   <td align="center">
+  <details>
+    <summary>Daily Medals</summary>
     <table border="3">
       <td colspan="6" align="center"><h1>Daily Medals</h1></td>
       <tr>
@@ -160,9 +165,12 @@
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" alt="LeetCode Badge" width="80" /></a><br>May<br>2023-05-31</td>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" alt="LeetCode Badge" width="80" /></a><br>Jun<br>2023-06-30</td>
     </table>
+  </details>
   </td>
   <tr>
   <td align="center">
+  <details>
+    <summary>Study Plan Medals</summary>
     <table border="3">
       <td colspan="6" align="center"><h1>Study Plan Medals</h1></td>
       <tr>
@@ -208,12 +216,15 @@
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif" alt="LeetCode Badge" width="80" /></a><br>Advanced SQL 50</td>
       <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="LeetCode Badge" width="80" /></a><br>30 Days of JavaScript</td>
     </table>
+  </details>
   </td>
 </table>
 
 ### `Coding Ninjas Studio Badge List`
 <table border="5">
   <td align="center">
+  <details>
+    <summary>Contest Ranks</summary>
     <table border="3">
       <td colspan="6" align="center"><h3>Contest Ranks</h3></td>
       <tr>
@@ -221,9 +232,12 @@
       <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_2-24340.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>6</b> Silver <br> 2nd-5th Rank</td>
       <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_1-24339.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>1</b> Bronze <br> 6th-10th Rank</td>
     </table>
+  </details>
   </td> 
   <tr> 
   <td align="center">
+  <details>
+    <summary>Topic + Guided path Badge</summary>
     <table border="3">
       <th colspan="2" align="center"><h3>Topic Badge</h3></th>
       <th colspan="2" align="center"><h3>Guided path Badge</h3></th>
@@ -340,6 +354,7 @@
         </table>
       </td>
     </table>
+  </details>
   </td>
 </table>
 <br>
@@ -431,6 +446,8 @@
 
 ### :zap: My Tech Toolbox 🧰
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<details>
+  <summary>My Tech Toolbox 🧰</summary>
 <!-- 
 #### 👨‍💻 Programming languages
 <p>
@@ -589,7 +606,9 @@
   | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/windows-10.png" alt="Windows 10" width="40" height="40"/>          | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/ubuntu.svg" alt="Ubuntu" width="40" height="40"/>           | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/linux-original.svg" alt="Linux" width="40" height="40"/>  | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/colab.png" alt="Google Colab" width="40" height="40"/>                                      | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/Jupyter%20Notebook.png" alt="Jupyter Notebook" width="40" height="40"/>     | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/vs.png" alt="VS Code" width="40" height="40"/>                                             | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/heroku-original.svg" alt="Heroku" width="40" height="40"/>      |
   |-------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
   | <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=windows&logoColor=0078d7"></a> | <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F05033?style=flat&amp;labelColor=white&amp;logo=ubuntu&logoColor=F05033"></a> | <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-e0982c?style=flat&amp;labelColor=white&amp;logo=linux&logoColor=e0982c"></a>  | <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-FF6F00.svg?style=flat&amp;labelColor=white&amp;logo=google-colab&logoColor=FF6F00"></a>           | <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&amp;labelColor=white&amp;logo=Jupyter&logoColor=F37626"></a> | <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=visual-studio-code&logoColor=0078d7"></a> | <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat&amp;labelColor=white&amp;logo=heroku&logoColor=430098"></a> |
-  
+
+</details>
+
 <h2 align="center"> Country Ranking on stardev.io </h2>
 <p align="center">
   <a href="https://stardev.io/developers/AkashSingh3031" target="_blank">
@@ -638,11 +657,14 @@
 
 ### :zap: GitHub Metrics 📊
 <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
-<p align="center">
-  <a href="https://github.com/AkashSingh3031" target="_blank">
-    <img width="75%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/metrics.svg"/>
-  </a>
-</p>
+<details>
+  <summary>GitHub Metrics 📊</summary>
+  <p align="center">
+    <a href="https://github.com/AkashSingh3031" target="_blank">
+      <img width="75%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/metrics.svg"/>
+    </a>
+  </p>
+</details>
 
 <h1 align="center"> My Certificates [240] <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Certified.png" width="50px"></h1>
 
