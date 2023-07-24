@@ -116,8 +116,10 @@
   <td align="center"><a href="https://youtu.be/sJXz_iHikzs"><img src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=youtube&svgfill=white"></a></td>
 </table>
 
-### `Leetcode Badge List`
-<table border="5">
+<h3 align="center">
+  <code> Leetcode Badge List </code>
+</h3>
+<table border="5" align="center">
   <td align="center">
   <details>
     <summary>Competition Medals</summary>
@@ -223,8 +225,10 @@
   </td>
 </table>
 
-### `Coding Ninjas Studio Badge List`
-<table border="5">
+<h3 align="center">
+  <code> Coding Ninjas Studio Badge List </code>
+</h3>
+<table border="5" align="center">
   <td align="center">
   <details>
     <summary>Contest Ranks</summary>
