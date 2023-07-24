@@ -10,6 +10,9 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031)](https://leetcode.com/akashsingh3031)
 
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ### `Social Networks:`
 <table border="3">
   <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="60" /></a></td>
@@ -359,6 +362,9 @@
 </table>
 <br>
 
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 - 🔭 I'm a 2022 Graduate and my branch is Computer Science.
 - 🌱 I’m currently working as a Python Developer.
 <!-- - 👬 I’m looking to collaborate on [![`The-Complete`](https://img.shields.io/badge/The_Complete-orange?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/blob/master/images/FAANGM.gif" width="175px" height="40px" /></a> [![`Preparation`](https://img.shields.io/badge/Preparation-green?style=for-the-badge)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation) Repository. -->
@@ -381,13 +387,6 @@
 <br>
 
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
-<!-- 
-<p align="center">
-  <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank">
-    <img width=60% src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical&border_radius=20"/>
-  </a>
-</p>
--->
 
 <table align="center" border="3">
     <thead align="center" valign="center">
@@ -403,7 +402,7 @@
     </thead>
     <tbody align="center">
         <tr>
-            <td rowspan="2"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github.png" width="75px" height="75px"> </td>
+            <td rowspan="2"> <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="75px" height="75px"> </td>
             <td rowspan="2"><b>⭐ Stars</b></td>
             <td rowspan="2"><b>🍴 Forks</b></td>
             <td><b>🔔 Open PRs</b></td>
@@ -431,21 +430,10 @@
      </tbody>
 </table>
 
-### :zap: GitHub Trophies 🏆
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img width="75%" src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
-  </a>
-</p> -->
-<p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
-  </a>
-</p>
-
 ### :zap: My Tech Toolbox 🧰
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <details>
   <summary>My Tech Toolbox 🧰</summary>
 <!-- 
@@ -631,32 +619,54 @@
   </a>
 </p>
 
+<!--🏆TROPHYGIF-->
+<p align="center">
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"> 
+  <br>
+  :zap: GitHub Trophies 🏆
+</p>
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img width="75%" src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
+  </a>
+</p> -->
+<p align="center">
+  <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
+    <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
+  </a>
+</p>
+
 ### :zap: Most used languages ❤️
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   
   | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"> <img width="100%" height="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=pie&langs_count=20&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=radical" alt=""></a> |
   |---|---|
-  | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=radical"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=8"></a> |
+  | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=radical"></a> | |
   
 </div>
 
 ### :zap: GitHub Stats
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   
   | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&include_all_commits=true&hide_border=true&title_color=ff6e96&theme=radical&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true" /></a> |
   |---|---|
-  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=radical" /></a> | <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=AkashSingh3031&theme=react-dark&hide_border=true&title_color=ff6e96&line=ff6e96&point=F8D847&area=true&bg_color=141321" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=radical" /></a> |  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=8"></a> |
   
 </div>
 
 <a href="https://github.com/AkashSingh3031" target="_blank" align="center"><img align="center" width="100%" height="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg" /></a>
-<!-- ![Akash's github activity graph](https://activity-graph.herokuapp.com/graph?username=AkashSingh3031&theme=react-dark&layout=compact&title_color=FF69B4&hide_border=true&area=true) -->
-<!-- ![Akash's github activity graph](https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg) -->
 
 ### :zap: GitHub Metrics 📊
-<img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Line.gif">
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <details>
   <summary>GitHub Metrics 📊</summary>
   <p align="center">
