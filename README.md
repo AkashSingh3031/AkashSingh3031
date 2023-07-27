@@ -5,8 +5,8 @@
 <h1 align="center"> Hello <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Hi.gif" width="30px" height="30px" style="max-width:100%;"> <𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://prepverse.github.io"> Akash Singh </a> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="50px" height="50px"></h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
-[![Today's Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?view=today-total&label=Today's%20Profile%20View&extraCount=30001&labelColor=fe3757&logo=github)](https://github.com/AkashSingh3031)
-[![Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?label=Total%20Profile%20View&extraCount=30000&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/AkashSingh3031)
+[![Today's Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/AkashSingh3031)
+[![Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/AkashSingh3031)
 [![GitHub followers](https://img.shields.io/github/followers/AkashSingh3031?style=social&logo=github)](https://github.com/AkashSingh3031?tab=followers)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031)](https://leetcode.com/akashsingh3031)
