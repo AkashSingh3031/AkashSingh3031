@@ -14,6 +14,27 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+- 🔭 I'm a 2022 Graduate and my branch is Computer Science.
+- 🌱 I’m currently working as a Python Developer.
+- 👬 I’m looking to collaborate on <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://img.shields.io/badge/The_Complete-orange?style=for-the-badge" width="100px" height="40px" /></a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=FF7F50&logo=amazon&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=apple&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=netflix&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=google&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=ffbb00&logo=microsoft&svgfill=white&text=false" width="50px" height="40px" /></a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://img.shields.io/badge/Preparation-green?style=for-the-badge" width="100px" height="40px" /></a> Repository.
+- :zap: I’m currently learning Project Management Skills.
+- 🎯 I’m focusing on Data Science.
+- <details>
+  <summary>☎️ How to reach me :</summary>
+  <table>
+  <td><a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a></td>
+  <td><a href="https://t.me/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="27px" /> </a></td>
+  <td><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" width="27px" /> </a></td>
+  <td><a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" width="27px" /> </a></td>
+  <td><a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="27px" /> </a>
+  <td><a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="27px" /> </a></td>
+  <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="27px"/> </a></td>
+</table>
+</details>
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <details open> 
   <summary><h2><code>Social Networks:</code></h2></summary>
   <table border="3">
@@ -382,29 +403,6 @@
     </td>
   </table>
 </details>
-
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-- 🔭 I'm a 2022 Graduate and my branch is Computer Science.
-- 🌱 I’m currently working as a Python Developer.
-- 👬 I’m looking to collaborate on <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://img.shields.io/badge/The_Complete-orange?style=for-the-badge" width="100px" height="40px" /></a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=FF7F50&logo=amazon&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=apple&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=netflix&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=google&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=ffbb00&logo=microsoft&svgfill=white&text=false" width="50px" height="40px" /></a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://img.shields.io/badge/Preparation-green?style=for-the-badge" width="100px" height="40px" /></a> Repository.
-- :zap: I’m currently learning Project Management Skills.
-- 🎯 I’m focusing on Data Science.
-- <details>
-  <summary>☎️ How to reach me :</summary>
-  <table>
-  <td><a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a></td>
-  <td><a href="https://t.me/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="27px" /> </a></td>
-  <td><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" width="27px" /> </a></td>
-  <td><a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" width="27px" /> </a></td>
-  <td><a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="27px" /> </a>
-  <td><a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="27px" /> </a></td>
-  <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="27px"/> </a></td>
-</table>
-</details>
-
-<br>
 
 <details open> 
   <summary align="center"><h2><code>🗃️ Project Open for Contribution</code></h2></summary>
