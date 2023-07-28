@@ -24,22 +24,22 @@
 - 🎯 I’m focusing on Data Science.
 - <details>
   <summary>☎️ How to reach me :</summary>
-    <table>
-      <td><a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a></td>
-      <td><a href="https://t.me/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="27px" /> </a></td>
-      <td><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" width="27px" /> </a></td>
-      <td><a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" width="27px" /> </a></td>
-      <td><a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="27px" /> </a>
-      <td><a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="27px" /> </a></td>
-      <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="27px"/> </a></td>
-    </table>
+  <table>
+    <td><a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a></td>
+    <td><a href="https://t.me/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="27px" /> </a></td>
+    <td><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" width="27px" /> </a></td>
+    <td><a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" width="27px" /> </a></td>
+    <td><a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="27px" /> </a>
+    <td><a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="27px" /> </a></td>
+    <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="27px"/> </a></td>
+  </table>
 </details>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <details open> 
-  <summary><a href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Social_Networks-orange?style=plastic&logo=person-fill&logoColor=crimson" width="200px" height="40px" /></a></summary>
+  <summary><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Social_Networks-orange?style=plastic&logo=person-fill&logoColor=crimson" width="200px" height="40px" /></a></summary>
   <table border="3">
     <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="60" /></a></td>
     <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh030318@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
@@ -68,7 +68,7 @@
 </details>
 
 <details open> 
-  <summary><a href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Profiles-cyan?style=plastic&logo=code&logoColor=red" width="200px" height="40px" /></a></summary>
+  <summary><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Profiles-cyan?style=plastic&logo=code&logoColor=red" width="200px" height="40px" /></a></summary>
   <table border="3">
     <td align="center"><a href="https://leetcode.com/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="55"/></a></td>
     <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" alt="GeeksforGeeks" width="65" height="55"/></a></td>
@@ -137,7 +137,8 @@
 <!-- [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com/@/akashsingh3031) -->
 
 <details open> 
-  <summary><h2><code>📺 Achievements:</code></h2></summary>
+<!--   <summary><h2><code>📺 Achievements:</code></h2></summary> -->
+  <summary><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/📺_Achievements-green?style=plastic&logoColor=cyan" width="200px" height="40px" /></a></summary>
   <table border="3">
     <td align="center"><a href="https://www.youtube.com/watch?v=2Rwfb84tqI8&t=279s" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60146338/218552527-b5d8ab82-4e5c-4351-bd7e-d4b4835c5a23.png" alt="Gate Math Book Winner (AIR-1)" width="500"/></a></td>
     <td align="center"><a href="https://youtu.be/sJXz_iHikzs" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60146338/218555344-89d89e35-41e7-40b1-bac1-b3d381247c3a.png" alt="NextLevel Interviwe" width="500"/></a></td>
@@ -408,7 +409,7 @@
 </details>
 
 <details open> 
-  <summary align="center"><h2><code>🗃️ Project Open for Contribution</code></h2></summary>
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🗃️_Project_Open_for_Contribution-crimson?style=plastic&logoColor=crimson" width="400px" height="40px" /></a></summary>
   <table align="center" border="3">
       <thead align="center" valign="center">
         <tr>
