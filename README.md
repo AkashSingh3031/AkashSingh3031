@@ -137,7 +137,6 @@
 <!-- [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com/@/akashsingh3031) -->
 
 <details open> 
-<!--   <summary><h2><code>📺 Achievements:</code></h2></summary> -->
   <summary><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/📺_Achievements-green?style=plastic&logoColor=cyan" width="200px" height="40px" /></a></summary>
   <table border="3">
     <td align="center"><a href="https://www.youtube.com/watch?v=2Rwfb84tqI8&t=279s" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/60146338/218552527-b5d8ab82-4e5c-4351-bd7e-d4b4835c5a23.png" alt="Gate Math Book Winner (AIR-1)" width="500"/></a></td>
@@ -149,7 +148,7 @@
 </details>
 
 <details open> 
-  <summary align="center"><h3><code>Leetcode Badge List</code></h3></summary>
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Leetcode_Badge_List-yellow?style=plastic&logo=leetcode&logoColor=brown" width="200px" height="30px" /></a></summary>
   <table border="5" align="center">
     <td align="center">
     <details>
@@ -269,7 +268,7 @@
 </details>
 
 <details open> 
-  <summary align="center"><h3><code>Coding Ninjas Studio Badge List</code></h3></summary>
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Ninjas_Studio_Badge_List-darkblue?style=plastic&logoColor=black" width="250px" height="30px" /></a></summary>
   <table border="5" align="center">
     <td align="center">
     <details>
@@ -457,7 +456,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <details>
-  <summary><h3>:zap: My Tech Toolbox 🧰</h3></summary>
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🧰_My_Tech_Toolbox-blue?style=plastic&logoColor=brown" width="250px" height="40px" /></a></summary>
 <!-- 
 #### 👨‍💻 Programming languages
 <p>
@@ -645,28 +644,31 @@
 
 <!--🏆TROPHYGIF-->
 <p align="center">
-  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"> 
-  <br>
-  :zap: GitHub Trophies 🏆
+  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px">
 </p>
 
+<details open>
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🏆_GitHub_Trophies-ff00ff?style=plastic&logoColor=brown" width="250px" height="40px" /></a></summary>
+  <!--📏LINE-->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+  <!-- <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+      <img width="75%" src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
+    </a>
+  </p> -->
+  <p align="center">
+    <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
+      <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
+    </a>
+  </p>
+</details>
+
+<details open> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Most_used_languages_❤-ff0000?style=plastic&logo=file-code&logoColor=cyan" width="300px" height="40px" /></a></summary>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!-- <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img width="75%" src="https://github-profile-trophy.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
-  </a>
-</p> -->
-<p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
-    <img width="75%" src="https://github-trophies.vercel.app/?username=AkashSingh3031&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
-  </a>
-</p>
-
-### :zap: Most used languages ❤️
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <div align="center">
   
   | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"> <img width="100%" height="50%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=AkashSingh3031&layout=pie&langs_count=20&theme=radical&hide_border=true&custom_title=Most%20Used%20Languages"></a> | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkashSingh3031&theme=radical" alt=""></a> |
@@ -674,10 +676,13 @@
   | <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkashSingh3031&theme=radical"></a> | |
   
 </div>
+</details>
 
-### :zap: GitHub Stats
+<details open> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/GitHub_Stats-ff0000?style=plastic&logo=github&logoColor=ff00ff" width="250px" height="40px" /></a></summary>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <div align="center">
   
   | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AkashSingh3031&show_icons=true&show=reviews,discussions_started,discussions_answered&show_owner=true&include_all_commits=true&hide_border=true&title_color=ff6e96&theme=radical&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkashSingh3031&theme=radical&custom_title=streak-stats&hide_border=true" /></a> |
@@ -685,13 +690,14 @@
   | <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" align="center"><img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkashSingh3031&theme=radical" /></a> |  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="_blank" align="center"><img width="100%" height="100%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=8"></a> |
   
 </div>
-
 <a href="https://github.com/AkashSingh3031" target="_blank" align="center"><img align="center" width="100%" height="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/profile-3d-contrib/profile-night-rainbow.svg" /></a>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</details>
+
 <details>
-  <summary><h3>:zap: GitHub Metrics 📊</h3></summary>
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/📊_GitHub_Metrics-cyan?style=plastic&logoColor=ff00ff" width="250px" height="40px" /></a></summary>
+  <!--📏LINE-->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <p align="center">
     <a href="https://github.com/AkashSingh3031" target="_blank">
       <img width="75%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/metrics.svg"/>
