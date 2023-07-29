@@ -620,28 +620,34 @@
 </details>
 
 <!-- StarDev Ranking Card ❤️ -->
-<h2 align="center"> Country Ranking on stardev.io </h2>
-<p align="center">
-  <a href="https://stardev.io/developers/AkashSingh3031" target="_blank">
-    <img width=75% src="https://stardev.io/developers/AkashSingh3031/badge/languages/country.svg"/>
-  </a>
-</p>
+<details open> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-StarDev_Country_Ranking-cyan?style=flat&amp;labelColor=black&amp;logo=stardev&amp;logoColor=cyan" width="250px" height="40px" /></a></summary>
+  <p align="center">
+    <a href="https://stardev.io/developers/AkashSingh3031" target="_blank">
+      <img width=75% src="https://stardev.io/developers/AkashSingh3031/badge/languages/country.svg"/>
+    </a>
+  </p>
+</details>
 
 <!-- Stack Overflow Card ❤️ -->
-<h2 align="center"> Stack Overflow </h2>
-<p align="center">
-  <a href="https://stackoverflow.com/users/18910829/akashsingh3031" target="_blank">
-    <img width=75% src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18910829&theme=dark"/>
-  </a>
-</p>
+<details open> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-StackOverflow_Stats_Card-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16" width="250px" height="40px" /></a></summary>
+  <p align="center">
+    <a href="https://stackoverflow.com/users/18910829/akashsingh3031" target="_blank">
+      <img width=75% src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18910829&theme=dark"/>
+    </a>
+  </p>
+</details>
 
 <!-- LeetCode Stats Card ❤️ -->
-<h2 align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
-<p align="center">
-  <a href="https://leetcode.com/akashsingh3031" target="_blank">
-    <img width=75% src="https://leetcode.card.workers.dev/?username=akashsingh3031&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
-  </a>
-</p>
+<details open> 
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-LeetCode_Stats_Card-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange" width="250px" height="40px" /></a></summary>
+  <p align="center">
+    <a href="https://leetcode.com/akashsingh3031" target="_blank">
+      <img width=75% src="https://leetcode.card.workers.dev/?username=akashsingh3031&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
+    </a>
+  </p>
+</details>
 
 <!--🏆TROPHYGIF-->
 <p align="center">
