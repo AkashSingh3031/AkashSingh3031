@@ -21,8 +21,8 @@
 [![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](mailto:akashsingh27101998@gmail.com)
 [![Connect on Medium](https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=white&amp;logo=medium&amp;logoColor=black)](https://medium.com/@akashsingh3031)
 [![Subscribe my Channel](https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
-<!-- [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
-[![Views on my Channel](https://img.shields.io/youtube/channel/views/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1) -->
+[![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
+[![Views on my Channel](https://img.shields.io/youtube/channel/views/UC7ZNkwC17al8RNJQGZc_aVA?style=social)](https://www.youtube.com/channel/UC7ZNkwC17al8RNJQGZc_aVA?sub_confirmation=1)
 
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akashsingh3031)
@@ -32,6 +32,36 @@
 [![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com/profile/akashsingh3031)
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com/codestudio/profile/bdc47f17-9010-41bc-9566-f6d3a001afcc)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/akashsingh3031)
+
+
+
+[![GitHub followers](https://img.shields.io/badge/-GitHub-black?style=flat&amp;labelColor=white&amp;logo=github&amp;logoColor=black)](https://github.com/AkashSingh3031?tab=followers)
+[![StarDev](https://img.shields.io/badge/-StarDev-cyan?style=flat&amp;labelColor=black&amp;logo=stardev&amp;logoColor=cyan)](https://stardev.io/developers/AkashSingh3031)
+[![Connect on LinkedIn](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8)](https://www.linkedin.com/in/akashsingh3031/)
+[![Connect on WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=25D366)](https://wa.me/919794423031)
+[![Connect on Telegram](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1)](https://t.me/akashsingh3031)
+[![Connect on Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&amp;labelColor=white&amp;logo=facebook&amp;logoColor=blue)](https://www.facebook.com/akashsingh3031/)
+[![Connect on Instragram](https://img.shields.io/badge/-Instagram-f3013b?style=flat&amp;labelColor=white&amp;logo=instagram&amp;logoColor=e84393)](https://www.instagram.com/akash.singh3031/)
+[![Connect on Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&amp;labelColor=white&amp;logo=twitter&amp;logoColor=1ca0f1&amp)](https://twitter.com/intent/follow?screen_name=akashsingh3031)
+[![Connect on Gmail](https://img.shields.io/badge/-Gmail-c0392b?style=flat&amp;labelColor=white&amp;logo=gmail&amp;logoColor=c0392b)](https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm)
+[![Subscribe to my Channel](https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000)](https://www.youtube.com/@akashsingh3031?sub_confirmation=1)
+[![Connect on Medium](https://img.shields.io/badge/-Medium-black?style=flat&amp;labelColor=white&amp;logo=medium&amp;logoColor=black)](https://medium.com/@akashsingh3031)
+[![Twitter followers](https://img.shields.io/twitter/follow/akashsingh3031?style=social)](https://twitter.com/intent/follow?screen_name=akashsingh3031)
+[![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/@akashsingh3031?style=social)](https://www.youtube.com/channel/@akashsingh3031?sub_confirmation=1)
+[![Views on my Channel](https://img.shields.io/youtube/channel/views/@akashsingh3031?style=social)](https://www.youtube.com/channel/@akashsingh3031?sub_confirmation=1)
+
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/akashsingh3031)
+[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-308D46?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=308D46)](https://auth.geeksforgeeks.org/user/akashsingh3031/practice)
+[![Coding Ninjas](https://img.shields.io/badge/-Coding_Ninjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=F78D1AFF)](https://www.codingninjas.com/codestudio/profile/AkashSingh3031)
+[![work@tech](https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue)](https://workat.tech/profile/akashsingh3031)
+[![InterviewBit](https://img.shields.io/badge/-InterviewBit-blue?style=flat&amp;labelColor=white&amp;logo=interviewbit&amp;logoColor=blue)](https://www.interviewbit.com/profile/akashsingh3031)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=green)](https://www.hackerrank.com/akashsingh3031)
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458)](https://www.hackerearth.com/@akashsingh3031)
+[![StopStalk](https://img.shields.io/badge/-StopStalk-blue?style=flat&amp;labelColor=white&amp;logo=stopstalk&amp;logoColor=f00)](https://www.stopstalk.com/user/profile/akashsingh3031)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com/users/18910829/akashsingh3031)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com/akashsingh3031)
+<!-- [![binarysearch](https://img.shields.io/badge/-binarysearch-darkblue?style=flat&amp;labelColor=white&amp;logo=binarysearch&amp;logoColor=darkblue)](https://binarysearch.com/@/akashsingh3031) -->
+
 <br>
 
 - 🔭 I'm in the 4<sup>th</sup> year of B.Tech Computer Science.
@@ -90,7 +120,7 @@
 </p>
 
 ### :zap: My Tech Toolbox 🧰
-<!-- #### 👨‍💻 Programming languages
+#### 👨‍💻 Programming languages
 
 <p>
     <a href="https://github.com/search?q=user%3AAkashSingh3031+language%3Aprolog"><img alt="Prolog" src="https://custom-icon-badges.herokuapp.com/badge/Prolog-E61B23.svg?logo=swi-prolog&logoColor=white"></a>
@@ -197,9 +227,9 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7.svg?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F05033?logo=ubuntu&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-e0982c?logo=linux&logoColor=white"></a>
-</p> -->
+</p>
 
-<!-- <p align="left">
+<p align="left">
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/python-original.svg" alt="python" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/c-original.svg" alt="C" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/cplusplus-original.svg" alt="C++" width="40" height="40"/></code>
@@ -211,7 +241,7 @@
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/github.svg" alt="github" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
   <code><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/AkashSingh3031/images/linux-original.svg" alt="Linux" width="40" height="40"/></code>
-</p> -->
+</p>
 
   | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c-original.svg" alt="C" width="40" height="40"/>                   | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/cplusplus-original.svg" alt="C++" width="40" height="40"/> | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python-original.svg" alt="python" width="40" height="40"/>       | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" alt="Java" width="40" height="40"/>   | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/markdown.png" alt="markdown" height="25"/>                                                          | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/html5-original-wordmark.svg" alt="html5" height="40"/>    | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/css_logo.png" alt="css3" height="40"/>                 | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/js_logo.png" alt="JavaScript" width="40" height="40"/>                 | <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/sql.png" alt="SQL" width="40" height="40"/>                     |
   |-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
