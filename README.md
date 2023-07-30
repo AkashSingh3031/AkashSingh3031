@@ -80,10 +80,10 @@
           </tr>
        </tbody>
   </table>
+  <!--📏LINE-->
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </details>
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <details open>
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🧰_My_Tech_Toolbox-blue?style=plastic&logoColor=brown" width="250px" height="40px" /></a></summary>
