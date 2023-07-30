@@ -306,7 +306,7 @@
         <!-- DS -->
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_I.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur I</td>
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_II.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur II</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="#" alt="LeetCode Badge" width="80" /></a><br>Data Structur III</td>
+        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DSIII.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur III</td>
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" alt="LeetCode Badge" width="80" /></a><br>Top Interview 150</td>
         <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="LeetCode Badge" width="80" /></a><br>Top 100 Liked</td>
         <tr>
