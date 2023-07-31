@@ -45,7 +45,7 @@
           <th colspan="6">
             <p align="center">
               <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank">
-                <img width=60% src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical&border_radius=20"/>
+                <img width=75% src="https://github-readme-stats.vercel.app/api/pin/?username=AkashSingh3031&repo=The-Complete-FAANG-Preparation&theme=radical&border_radius=20"/>
               </a>
             </p>
           </th>
@@ -53,7 +53,7 @@
       </thead>
       <tbody align="center">
           <tr>
-              <td rowspan="2"> <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="75px" height="75px"> </td>
+              <td rowspan="2"> <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif" width="100px" height="100px"> </td>
               <td rowspan="2"><b>⭐ Stars</b></td>
               <td rowspan="2"><b>🍴 Forks</b></td>
               <td><b>🔔 Open PRs</b></td>
@@ -61,22 +61,22 @@
               <td><b>👨‍💻 Total Languages</b></td>
           </tr>
            <tr>
-              <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls"><img alt="Open Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=git-pull-request&logoColor=0f0&labelColor=darkblue"/></a></td>
-              <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls?q=is%3Apr+is%3Aclosed"><img alt="Close Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plasticcal&logo=git-merge&logoColor=critical&labelColor=darkblue&color=critical"/></a></td>
+              <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls"><img alt="Open Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=git-pull-request&logoColor=0f0&labelColor=darkblue" width="250px" height="25px"/></a></td>
+              <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pulls?q=is%3Apr+is%3Aclosed"><img alt="Close Pull Requests" src="https://custom-icon-badges.demolab.com/github/issues-pr-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plasticcal&logo=git-merge&logoColor=critical&labelColor=darkblue&color=critical width="250px" height="25px""/></a></td>
               <td><a href=""><img alt="Total Languages" src="https://custom-icon-badges.demolab.com/github/languages/count/AkashSingh3031/The-Complete-FAANG-Preparation?style=plasticcal&logo=code&logoColor=green&labelColor=darkblue&color=crimson"/></a></td>
           </tr>
           <tr>
-              <td rowspan="2"><code><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"><img alt="The Complete FAANG Preparation" src="https://custom-icon-badges.demolab.com/badge/The_Complete_FAANG_Preparation-orange?style=for-the-badge"/></a></code></td>
-              <td rowspan="2"><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers"><img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=star&logoColor=gold&labelColor=darkblue&color=gold"/></a></td>
-              <td rowspan="2"><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members"><img alt="Forks" src="https://custom-icon-badges.demolab.com/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=fork&logoColor=gray&labelColor=darkblue&color=gray"/></a></td>
+              <td rowspan="2"><code><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation"><img alt="The Complete FAANG Preparation" src="https://custom-icon-badges.demolab.com/badge/The_Complete_FAANG_Preparation-orange?style=flat" width="400px" height="35px"/></a></code></td>
+              <td rowspan="2"><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/stargazers"><img alt="Stars" src="https://custom-icon-badges.demolab.com/github/stars/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=star&logoColor=gold&labelColor=darkblue&color=gold" width="250px" height="25px"/></a></td>
+              <td rowspan="2"><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/network/members"><img alt="Forks" src="https://custom-icon-badges.demolab.com/github/forks/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=fork&logoColor=gray&labelColor=darkblue&color=gray" width="250px" height="25px"/></a></td>
               <td><b>🐛 Open Issues</b></td>
               <td><b>🔕 Close Issues</b></td>
               <td><b>💻 Top Language</b></td>
           </tr>
            <tr>
-              <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues"><img alt="Open Issues" src="https://custom-icon-badges.demolab.com/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=issue-opened&logoColor=0f0&labelColor=darkblue"/></a></td>
-              <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues?q=is%3Aissue+is%3Aclosed"><img alt="Close Issues" src="https://custom-icon-badges.demolab.com/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=issue&logoColor=critical&labelColor=darkblue&color=critical"/></a></td>
-              <td><a href=""><img alt="Top Language" src="https://custom-icon-badges.demolab.com/github/languages/top/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=rocket&logoColor=green&labelColor=darkblue&color=crimson"/></a></td>
+              <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues"><img alt="Open Issues" src="https://custom-icon-badges.demolab.com/github/issues/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=issue-opened&logoColor=0f0&labelColor=darkblue" width="250px" height="25px"/></a></td>
+              <td><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues?q=is%3Aissue+is%3Aclosed"><img alt="Close Issues" src="https://custom-icon-badges.demolab.com/github/issues-closed/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=issue&logoColor=critical&labelColor=darkblue&color=critical" width="250px" height="25px"/></a></td>
+              <td><a href=""><img alt="Top Language" src="https://custom-icon-badges.demolab.com/github/languages/top/AkashSingh3031/The-Complete-FAANG-Preparation?style=plastic&logo=rocket&logoColor=green&labelColor=darkblue&color=crimson" width="250px" height="25px"/></a></td>
           </tr>
        </tbody>
   </table>
