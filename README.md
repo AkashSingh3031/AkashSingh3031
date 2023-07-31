@@ -93,7 +93,7 @@
   <table border="5" align="center">
     <td align="center">
       <details>
-        <summary>👨‍💻 Programming languages</summary>
+        <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/👨‍💻_Programming_languages-crimson?style=plastic&labelColor=black&logo=1&logoColor=black" width="250px" height="25px" /></a></summary>
         <table border="3" align="center">
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c-original.svg" alt="C" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a></td>
@@ -120,7 +120,7 @@
     <tr>
     <td align="center">
       <details>
-        <summary>🧰 Frameworks and libraries</summary>
+        <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🧰_Frameworks_and_libraries-pink?style=plastic&labelColor=black&logo=2&logoColor=black" width="250px" height="25px" /></a></summary>
         <table border="3" align="center">
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/numpy.png" alt="NumPy" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/pandas.png" alt="Pandas" width="40" height="40"/></a></td>
@@ -155,7 +155,7 @@
     <tr>
     <td align="center">
       <details>
-        <summary>💻 Operating Systems, Software and Tools</summary>
+        <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/💻_Operating_Systems_Software_and_Tools-0000ff?style=plastic&labelColor=black&logo=3&logoColor=black" width="250px" height="25px" /></a></summary>
         <table border="3" align="center">
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/windows-10.png" alt="Windows 10" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/ubuntu.svg" alt="Ubuntu" width="40" height="40"/></a></td>
@@ -294,11 +294,11 @@
 </details>
 
 <details open>
-  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-LeetCode_Badge_List-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange" width="250px" height="30px" /></a></summary>
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-LeetCode_Badge_List-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange" width="250px" height="40px" /></a></summary>
   <table border="5" align="center">
     <td align="center">
     <details>
-      <summary>Competition Medals</summary>
+      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Competition_Medals-00ffff?style=plastic&labelColor=black&logo=1&logoColor=black" width="200px" height="25px" /></a></summary>
       <table border="3">
         <td colspan="6" align="center"><h3>Competition Medals</h3></td>
         <tr>
@@ -309,7 +309,7 @@
     <tr> 
     <td align="center">
     <details>
-      <summary>Daily Medals</summary>
+      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Daily_Medals-ff00ff?style=plastic&labelColor=black&logo=2&logoColor=black" width="200px" height="25px" /></a></summary>
       <table border="3">
         <td colspan="6" align="center"><h1>Daily Medals</h1></td>
         <tr>
@@ -345,15 +345,15 @@
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" alt="LeetCode Badge" width="80" /></a><br>Apr<br>2023-04-30</td>
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" alt="LeetCode Badge" width="80" /></a><br>May<br>2023-05-31</td>
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" alt="LeetCode Badge" width="80" /></a><br>Jun<br>2023-06-30</td>
-<!--         <tr>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" alt="LeetCode Badge" width="80" /></a><br>Jul<br>2023-07-31</td> -->
+        <tr>
+        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" alt="LeetCode Badge" width="80" /></a><br>Jul<br>2023-07-31</td>
       </table>
     </details>
     </td>
     <tr>
     <td align="center">
     <details>
-      <summary>Study Plan Medals</summary>
+      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Study_Plan_Medals-ffff00?style=plastic&labelColor=black&logo=3&logoColor=black" width="200px" height="25px" /></a></summary>
       <table border="3">
         <td colspan="6" align="center"><h1>Study Plan Medals</h1></td>
         <tr>
@@ -416,11 +416,11 @@
 </details>
 
 <details open> 
-  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Ninjas_Studio_Badge_List-darkblue?style=plastic&logoColor=black" width="250px" height="30px" /></a></summary>
+  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Ninjas_Studio_Badge_List-darkblue?style=plastic&logoColor=black" width="250px" height="40px" /></a></summary>
   <table border="5" align="center">
     <td align="center">
     <details>
-      <summary>Contest Ranks</summary>
+      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Contest_Ranks-orange?style=plastic&labelColor=black&logo=1&logoColor=black" width="200px" height="25px" /></a></summary>
       <table border="3">
         <td colspan="6" align="center"><h3>Contest Ranks</h3></td>
         <tr>
@@ -433,7 +433,7 @@
     <tr> 
     <td align="center">
     <details>
-      <summary>Topic + Guided path Badge</summary>
+      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Topic_+_Guided_path_Badge-cyan?style=plastic&labelColor=black&logo=2&logoColor=black" width="200px" height="25px" /></a></summary>
       <table border="3">
         <th colspan="2" align="center"><h3>Topic Badge</h3></th>
         <th colspan="2" align="center"><h3>Guided path Badge</h3></th>
