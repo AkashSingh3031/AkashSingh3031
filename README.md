@@ -22,7 +22,7 @@
 - 👬 I’m looking to collaborate on <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/The_Complete-orange?style=plastic" width="100px" height="40px" /></a> <a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=4267B2&logo=facebook&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=FF7F50&logo=amazon&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=apple&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=ff0000&logo=netflix&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=308D46&logo=google&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://readme-components.vercel.app/api?component=logo&fill=ffbb00&logo=microsoft&svgfill=white&text=false" width="50px" height="40px" /></a><a href="https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Preparation-green?style=plastic" width="100px" height="40px" /></a> Repository.
 - :zap: I’m currently learning Project Management Skills.
 - 🎯 I’m focusing on Data Science.
-- <details>
+- <details open>
   <summary>☎️ How to reach me :</summary>
   <table>
     <td><a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="27px" /> </a></td>
@@ -300,8 +300,8 @@
     <details>
       <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Competition_Medals-00ffff?style=plastic&labelColor=black&logo=1&logoColor=black" width="200px" height="25px" /></a></summary>
       <table border="3">
-        <td colspan="6" align="center"><h3>Competition Medals</h3></td>
-        <tr>
+<!--         <td colspan="6" align="center"><h3>Competition Medals</h3></td>
+        <tr> -->
         <td colspan="6" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual.gif" alt="LeetCode Badge" width="120" /></a></td>
       </table>
     </details>
@@ -311,8 +311,8 @@
     <details>
       <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Daily_Medals-ff00ff?style=plastic&labelColor=black&logo=2&logoColor=black" width="200px" height="25px" /></a></summary>
       <table border="3">
-        <td colspan="6" align="center"><h1>Daily Medals</h1></td>
-        <tr>
+<!--         <td colspan="6" align="center"><h1>Daily Medals</h1></td>
+        <tr> -->
         <td colspan="6" align="center"><h3>2021</h3></td>
         <tr>
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-08.gif" alt="LeetCode Badge" width="80" /></a><br>Aug<br>2021-08-31</td>
@@ -355,15 +355,15 @@
     <details>
       <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Study_Plan_Medals-ffff00?style=plastic&labelColor=black&logo=3&logoColor=black" width="200px" height="25px" /></a></summary>
       <table border="3">
-        <td colspan="6" align="center"><h1>Study Plan Medals</h1></td>
-        <tr>
+<!--         <td colspan="6" align="center"><h1>Study Plan Medals</h1></td>
+        <tr> -->
         <td colspan="3" align="center"><h3>Old Study Plan</h3></td>
         <td colspan="3" align="center"><h3>New Study Plan</h3></td>
         <tr>
-        <!-- Programming Skills + JS -->
+        <!-- Programming Skills + JS +Pandas -->
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills I</td>
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills II</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.png" alt="LeetCode Badge" width="80" /></a><br>Programming Skills III</td>
+        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills III</td>
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Programming_Skills.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills</td>
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="LeetCode Badge" width="80" /></a><br>30 Days of JavaScript</td>
         <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Pandas.gif" alt="LeetCode Badge" width="80" /></a><br>30 Days of Pandas</td>
@@ -423,8 +423,8 @@
     <details>
       <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Contest_Ranks-orange?style=plastic&labelColor=black&logo=1&logoColor=black" width="200px" height="25px" /></a></summary>
       <table border="3">
-        <td colspan="6" align="center"><h3>Contest Ranks</h3></td>
-        <tr>
+<!--         <td colspan="6" align="center"><h3>Contest Ranks</h3></td>
+        <tr> -->
         <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_3-24341.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>30</b> Gold <br> 1st Rank</td>
         <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_2-24340.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>6</b> Silver <br> 2nd-5th Rank</td>
         <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_1-24339.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>1</b> Bronze <br> 6th-10th Rank</td>
@@ -608,7 +608,7 @@
 
 </details>
 
-<details>
+<details oprn>
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/📊_GitHub_Metrics-cyan?style=plastic&logoColor=ff00ff" width="250px" height="40px" /></a></summary>
   <!--📏LINE-->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
