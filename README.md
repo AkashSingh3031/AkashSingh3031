@@ -9,8 +9,8 @@
 [![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAkashSingh3031%26type%3Djson)](https://github.com/AkashSingh3031)
 [![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AkashSingh3031/AkashSingh3031?style=plastic&logo=history)](https://github.com/AkashSingh3031/AkashSingh3031/commits/master)
 [![Awesome Contributors](https://custom-icon-badges.demolab.com/github/contributors/AkashSingh3031/AkashSingh3031?label=Awesome%20Contributors&style=plastic&logo=heart-fill)](https://github.com/AkashSingh3031/AkashSingh3031/graphs/contributors)
-[![Today's Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=github)](https://github.com/AkashSingh3031)
-[![Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=github)](https://github.com/AkashSingh3031)
+[![Today's Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?view=today-total&label=Today's%20Profile%20View&extraCount=0&labelColor=fe3757&logo=eye)](https://github.com/AkashSingh3031)
+[![Profile Visitors](https://hits.sh/github.com/AkashSingh3031/AkashSingh3031.svg?label=Total%20Profile%20View&extraCount=0&color=fe3757&labelColor=bf11cc&logo=eye)](https://github.com/AkashSingh3031)
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031)](https://leetcode.com/akashsingh3031)
 [![GitHub followers](https://custom-icon-badges.demolab.com/github/followers/AkashSingh3031?style=social&logo=followers)](https://github.com/AkashSingh3031?tab=followers)
 <!-- [![Profile Views](https://visitcount.itsvg.in/api?id=AkashSingh3031&label=Profile%20Views&icon=5&pretty=false)](https://github.com/AkashSingh3031) -->
