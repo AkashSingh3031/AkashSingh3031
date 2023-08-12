@@ -26,12 +26,12 @@
 - <details open>
   <summary>☎️ How to reach me :</summary>
   <table border="3" radius="20">
-    <td><a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" width="35px" /> </a></td>
+    <td><a href="https://wa.me/919794423031" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45px" /> </a></td>
     <td><a href="https://t.me/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" width="35px" /> </a></td>
-    <td><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" width="35px" /> </a></td>
-    <td><a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Instagram%20(color).svg" width="35px" /> </a></td>
-    <td><a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/facebook%20(color).png" alt="Akash's Facebook" width="35px" /> </a>
-    <td><a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" width="35px" /> </a></td>
+    <td><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45px" /> </a></td>
+    <td><a href="https://www.instagram.com/akash.singh3031/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45px" /> </a></td>
+    <td><a href="https://www.facebook.com/akashsingh3031/" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45px" /> </a>
+    <td><a href="https://twitter.com/akashsingh3031" target="_blank"> <img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="45px" /> </a></td>
     <td><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh03031@gmail.com&tf=cm" target="_blank">  <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" width="35px"/> </a></td>
   </table>
 </details>
@@ -109,23 +109,23 @@
     
   <table border="5" align="center">
     <td align="center">
-      <details>
+      <details open>
         <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/👨‍💻_Programming_languages-crimson?style=plastic&labelColor=black&logo=1&logoColor=black" width="250px" height="25px" /></a></summary>
         <table border="3" align="center">
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/c-original.svg" alt="C" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/cplusplus-original.svg" alt="C++" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/python-original.svg" alt="python" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/java-original.svg" alt="Java" width="40" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="50" height="50"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50"/></a></td>
           <tr>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=flat&amp;labelColor=white&amp;logo=c-in-hexagon&logoColor=03599C"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?style=flat&amp;labelColor=white&amp;logo=cpp2&logoColor=9C033A"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Python" src="https://img.shields.io/badge/Python-007396.svg?style=flat&amp;labelColor=white&amp;logo=python&logoColor=yellow"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Java" src="https://img.shields.io/badge/Java-03599C.svg?style=flat&amp;labelColor=white&amp;logo=java&logoColor=03599C"></a></td>
           <tr>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/html5-original-wordmark.svg" alt="html5" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/css_logo.png" alt="css3" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/js_logo.png" alt="JavaScript" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/bootstrap.png" alt="Bootstrap" width="40" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" alt="html5" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" alt="css3" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" width="40" height="40"/></a></td>
           <tr>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?style=flat&amp;labelColor=white&amp;logo=html5&logoColor=E34F26"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?style=flat&amp;labelColor=white&amp;logo=css3&logoColor=1572B6"></a></td>
@@ -136,7 +136,7 @@
     </td>
     <tr>
     <td align="center">
-      <details>
+      <details open>
         <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/🧰_Frameworks_and_libraries-pink?style=plastic&labelColor=black&logo=2&logoColor=black" width="250px" height="25px" /></a></summary>
         <table border="3" align="center">
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/numpy.png" alt="NumPy" width="40" height="40"/></a></td>
@@ -153,12 +153,12 @@
           <td align="center"><a href="#" target="_blank" align="center"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=flat&amp;labelColor=white&amp;logo=TensorFlow&logoColor=FF6F00"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?style=flat&amp;labelColor=white&amp;logo=database&logoColor=025E8C"></a></td>
           <tr>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/git.png" alt="git" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github.svg" alt="github" width="40" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" width="40" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="65" height="65"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GitHub%20Actions.png" alt="GitHub Actions" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/markdown.png" alt="markdown" height="25"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StackOverflow.png" alt="StackOverflow" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="50" height="50"/></a></td>
           <tr>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat&amp;labelColor=white&amp;logo=git&logoColor=F05033"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=flat&amp;labelColor=white&amp;logo=github&logoColor=black"></a></td>
@@ -171,24 +171,28 @@
     </td>
     <tr>
     <td align="center">
-      <details>
+      <details open>
         <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/💻_Operating_Systems_Software_and_Tools-0000ff?style=plastic&labelColor=black&logo=3&logoColor=black" width="250px" height="25px" /></a></summary>
         <table border="3" align="center">
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/windows-10.png" alt="Windows 10" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/ubuntu.svg" alt="Ubuntu" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/linux-original.svg" alt="Linux" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/colab.png" alt="Google Colab" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/Jupyter%20Notebook.png" alt="Jupyter Notebook" width="40" height="40"/></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/vs.png" alt="VS Code" width="40" height="40"/></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/heroku-original.svg" alt="Heroku" width="40" height="40"/></a></td>
           <tr>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=windows&logoColor=0078d7"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-F05033?style=flat&amp;labelColor=white&amp;logo=ubuntu&logoColor=F05033"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Linux" src="https://img.shields.io/badge/Linux-e0982c?style=flat&amp;labelColor=white&amp;logo=linux&logoColor=e0982c"></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat&amp;labelColor=white&amp;logo=heroku&logoColor=430098"></a></td>
+		  <tr>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/colab.png" alt="Google Colab" width="40" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/Jupyter%20Notebook.png" alt="Jupyter Notebook" width="40" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/vs.png" alt="VS Code" width="40" height="40"/></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img src="https://user-images.githubusercontent.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif" alt="PyCharm" width="40" height="40"/></a></td>
+		  <tr>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-FF6F00.svg?style=flat&amp;labelColor=white&amp;logo=google-colab&logoColor=FF6F00"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626.svg?style=flat&amp;labelColor=white&amp;logo=Jupyter&logoColor=F37626"></a></td>
           <td align="center"><a href="#" target="_blank" align="center"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&amp;labelColor=white&amp;logo=visual-studio-code&logoColor=0078d7"></a></td>
-          <td align="center"><a href="#" target="_blank" align="center"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?style=flat&amp;labelColor=white&amp;logo=heroku&logoColor=430098"></a></td>
+          <td align="center"><a href="#" target="_blank" align="center"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-4dbb5f.svg?style=flat&amp;labelColor=black&amp;logo=pycharm&logoColor=f3c033"></a></td>
         </table>
       </details>
     </td>
@@ -203,7 +207,7 @@
   <table border="3" align="center">
     <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="60" /></a></td>
     <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh030318@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="55"/> </a></td>
-    <td align="center"><a href="https://github.com/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/github-2.png" alt="Akash's GitHub" width="55"/></a></td>
+    <td align="center"><a href="https://github.com/AkashSingh3031" target="_blank"><img align="center" src="https://techstack-generator.vercel.app/github-icon.svg" alt="Akash's GitHub" width="65"/></a></td>
     <td align="center"><a href="https://medium.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/medium.svg" alt="Akash's Medium" width="55"/></a></td>
     <td align="center"><a href="https://twitter.com/intent/follow?screen_name=akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/twitter(color).png" alt="Akash's Twitter" width="55" /></a></td>
     <tr>
@@ -952,7 +956,7 @@
   
   <table>
     <td align="center"><a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1" target="_blank" align="center"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/youtube(color).png" alt="YouTube" width="45" /></a> <br><br> <a href="https://www.youtube.com/@akashsingh3031?sub_confirmation=1"><img src="https://img.shields.io/badge/-YouTube-ff0000?style=flat&amp;labelColor=white&amp;logo=youtube&amp;logoColor=ff0000"></a></td>
-    <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="45"/> </a> <br><br> <a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm"><img src="https://img.shields.io/badge/-Gmail-0F9D58?style=flat&amp;labelColor=4285F4&amp;logo=gmail&amp;logoColor=DB4437"></a></td>
+    <td align="center"><a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh03031@gmail.com&tf=cm" target="_blank"> <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="45"/> </a> <br><br> <a href="https://mail.google.com/mail/u/0/?fs=1&to=akashsingh27101998@gmail.com&tf=cm"><img src="https://img.shields.io/badge/-Gmail-0F9D58?style=flat&amp;labelColor=4285F4&amp;logo=gmail&amp;logoColor=DB4437"></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/linked(color).png" alt="Akash's linkedin" width="45" /></a> <br><br> <a href="https://www.linkedin.com/in/akashsingh3031/"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&amp;labelColor=white&amp;logo=linkedin&amp;logoColor=0e76a8"></a></td>
     <td align="center"><a href="https://wa.me/919794423031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/whatsapp(color).png" alt="Akash's WhatsApp" width="45" /></a> <br><br> <a href="https://wa.me/919794423031"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&amp;labelColor=white&amp;logo=whatsapp&amp;logoColor=25D366"></a></td>
     <td align="center"><a href="https://t.me/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Social%20Media/telegram(color).png" alt="Akash's Telegram" width="45" /></a> <br><br> <a href="https://t.me/akashsingh3031"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&amp;labelColor=white&amp;logo=telegram&amp;logoColor=1ca0f1"></a></td>
@@ -971,7 +975,7 @@
     <td align="center"><a href="https://stackoverflow.com/users/18910829/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/StackOverflow.png" alt="Stack Overflow" width="45"/></a> <br><br> <a href="https://stackoverflow.com/users/18910829/akashsingh3031"><img src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16"></a></td>
     <td align="center"><a href="https://leetcode.com/akashsingh3031/" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="45"/></a> <br><br> <a href="https://leetcode.com/akashsingh3031"><img src="https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange"></a></td>
     <td align="center"><a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/GeeksforGeeks-1.png" alt="GeeksforGeeks" width="55"/></a> <br><br> <a href="https://auth.geeksforgeeks.org/user/akashsingh3031/practice"><img src="https://img.shields.io/badge/-GeeksforGeeks-308D46?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=308D46"></a></td>
-    <td align="center"><a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/Coding%20Ninjas.png" alt="Coding Ninjas" width="45"/></a> <br><br> <a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://img.shields.io/badge/-Coding_Ninjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=F78D1AFF"></a></td>
+    <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/Coding%20Ninjas.png" alt="Coding Ninjas" width="45"/></a> <br><br> <a href="https://www.codingninjas.com/codestudio/profile/AkashSingh3031"><img src="https://img.shields.io/badge/-Coding_Ninjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=F78D1AFF"></a></td>
     <td align="center"><a href="https://workat.tech/profile/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/workattech.png" alt="work@tech" width="45"/></a> <br><br> <a href="https://workat.tech/profile/akashsingh3031"><img src="https://img.shields.io/badge/-work@tech-blue?style=flat&amp;labelColor=white&amp;logo=work@tech&amp;logoColor=blue"></a></td>
     <td align="center"><a href="https://www.hackerrank.com/akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerRank.png" alt="HackerRank" width="45"/></a> <br><br> <a href="https://www.hackerrank.com/akashsingh3031"><img src="https://img.shields.io/badge/-HackerRank-308D46?style=flat&amp;labelColor=white&amp;logo=hackerrank&amp;logoColor=308D46"></a></td>
     <td align="center"><a href="https://www.hackerearth.com/@akashsingh3031" target="_blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Tech%20Tools/HackerEarth.png" alt="HackerEarth" width="45"/></a> <br><br> <a href="https://www.hackerearth.com/@akashsingh3031"><img src="https://img.shields.io/badge/-HackerEarth-650458?style=flat&amp;labelColor=white&amp;logo=hackerearth&amp;logoColor=650458"></a></td>
