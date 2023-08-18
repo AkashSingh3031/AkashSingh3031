@@ -85,19 +85,24 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </details>
 
-<details open> 
-	<summary align="center"><a align="center" href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/😂_Random_Jokes-cyan?style=plastic" width="200px" height="40px" /></a></summary>
-	<p align="center">
-	    <img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=00ffffff" width="450px" />
-	</p>
-</details>
-
-<details open> 
-	<summary align="center"><a align="center" href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/✍️_Random_Dev_Quote-crimson?style=plastic" width="200px" height="40px" /></a></summary>
-	<p align="center">
-		<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="450px">
-	</p>
-</details>
+<table border="5" align="center">
+	<td valign="top">
+		<details open> 
+			<summary align="center"><a align="center" href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/😂_Random_Jokes-cyan?style=plastic" width="200px" height="40px" /></a></summary>
+			<p align="center">
+				<img src="https://readme-jokes.vercel.app/api?theme=radical&borderColor=00ffffff" width="450px" />
+			</p>
+		</details>
+	</td>
+	<td valign="top">
+		<details open> 
+			<summary align="center"><a align="center" href="#" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/✍️_Random_Dev_Quote-crimson?style=plastic" width="200px" height="40px" /></a></summary>
+			<p align="center">
+				<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" width="450px">
+			</p>
+		</details>
+	</td>
+</table>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -285,300 +290,319 @@
   </table>
 </details>
 
-<!-- StarDev Ranking Card ❤️ -->
-<details open> 
-  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-StarDev_Country_Ranking-cyan?style=flat&amp;labelColor=black&amp;logo=stardev&amp;logoColor=cyan" width="250px" height="40px" /></a></summary>
-  <p align="center">
-    <a href="https://stardev.io/developers/AkashSingh3031" target="_blank">
-      <img width=75% src="https://stardev.io/developers/AkashSingh3031/badge/languages/country.svg"/>
-    </a>
-  </p>
-</details>
-
-<!-- Stack Overflow Card ❤️ -->
-<details open> 
-  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-StackOverflow_Stats_Card-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16" width="250px" height="40px" /></a></summary>
-  <p align="center">
-    <a href="https://stackoverflow.com/users/18910829/akashsingh3031" target="_blank">
-      <img width=75% src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18910829&theme=dark"/>
-    </a>
-  </p>
-</details>
+<table border="5" align="center">
+	<td valign="top">
+		<!-- StarDev Ranking Card ❤️ -->
+		<details open> 
+		  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-StarDev_Country_Ranking-cyan?style=flat&amp;labelColor=black&amp;logo=stardev&amp;logoColor=cyan" width="250px" height="40px" /></a></summary>
+		  <p align="center">
+		    <a href="https://stardev.io/developers/AkashSingh3031" target="_blank">
+		      <img src="https://stardev.io/developers/AkashSingh3031/badge/languages/country.svg"/>
+		    </a>
+		  </p>
+		</details>
+	</td>
+	<td valign="top">
+		<!-- Stack Overflow Card ❤️ -->
+		<details open> 
+		  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-StackOverflow_Stats_Card-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16" width="250px" height="40px" /></a></summary>
+		  <p align="center">
+		    <a href="https://stackoverflow.com/users/18910829/akashsingh3031" target="_blank">
+		      <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=18910829&theme=dark"/>
+		    </a>
+		  </p>
+		</details>
+	</td>
+</table>
 
 <!-- LeetCode Stats Card ❤️ -->
+<p align="center">
+  <img src="https://leetcode.com/static/images/LeetCode_Cup.png" width="100px">
+</p>
 <details open> 
   <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-LeetCode_Stats_Card-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange" width="250px" height="40px" /></a></summary>
   <p align="center">
-    <a href="https://leetcode.com/akashsingh3031" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031" width="200px" height="25px" /><br>
-      <img width=75% src="https://leetcode.card.workers.dev/?username=akashsingh3031&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
-	  <img width=75% src="https://leetcard.jacoblin.cool/akashsingh3031?ext=heatmap&border_radius=20"/>
-    </a>
+	<a href="https://leetcode.com/akashsingh3031" target="_blank">
+	  <img align="center" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=orange&logo=leetcode&logoColor=black&label=Solved&query=solvedOverTotal&url=https://leetcode-badge.vercel.app/api/users/akashsingh3031" width="200px" height="25px" /><br>
+	  <table border="3" align="center">
+		<td valign="top">
+			<img src="https://leetcode.card.workers.dev/?username=akashsingh3031&theme=dark&font=source_code_pro&extension=activity&border_radius=20"/>
+		</td>
+		<td valign="top">
+			<img src="https://leetcard.jacoblin.cool/akashsingh3031?ext=heatmap&border_radius=20"/>
+		</td>
+	  </table>
+	</a>
   </p>
 </details>
 
-<details open>
-  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-LeetCode_Badge_List-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange" width="250px" height="40px" /></a></summary>
-  <table border="5" align="center">
-    <td align="center">
-    <details>
-      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Competition_Medals-00ffff?style=plastic&labelColor=black&logo=1&logoColor=black" width="200px" height="25px" /></a></summary>
-      <table border="3">
-<!--         <td colspan="6" align="center"><h3>Competition Medals</h3></td>
-        <tr> -->
-        <td colspan="6" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual.gif" alt="LeetCode Badge" width="120" /></a></td>
-      </table>
-    </details>
-    </td> 
-    <tr> 
-    <td align="center">
-    <details>
-      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Daily_Medals-ff00ff?style=plastic&labelColor=black&logo=2&logoColor=black" width="200px" height="25px" /></a></summary>
-      <table border="3">
-<!--         <td colspan="6" align="center"><h1>Daily Medals</h1></td>
-        <tr> -->
-        <td colspan="6" align="center"><h3>2021</h3></td>
-        <tr>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-08.gif" alt="LeetCode Badge" width="80" /></a><br>Aug<br>2021-08-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-09.gif" alt="LeetCode Badge" width="80" /></a><br>Sep<br>2021-09-30</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-10.gif" alt="LeetCode Badge" width="80" /></a><br>Oct<br>2021-10-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-11.gif" alt="LeetCode Badge" width="80" /></a><br>Nov<br>2021-11-30</td>
-        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-12.gif" alt="LeetCode Badge" width="80" /></a><br>Dec<br>2021-12-31</td>
-        <tr>
-        <td colspan="6" align="center"><h3>2022</h3></td>
-        <tr>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-01.gif" alt="LeetCode Badge" width="80" /></a><br>Jan<br>2022-01-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-02.gif" alt="LeetCode Badge" width="80" /></a><br>Feb<br>2022-02-28</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-03.gif" alt="LeetCode Badge" width="80" /></a><br>Mar<br>2022-03-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-04.gif" alt="LeetCode Badge" width="80" /></a><br>Apr<br>2022-04-30</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-05.gif" alt="LeetCode Badge" width="80" /></a><br>May<br>2022-05-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-06.gif" alt="LeetCode Badge" width="80" /></a><br>Jun<br>2022-06-30</td>
-        <tr>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-07.gif" alt="LeetCode Badge" width="80" /></a><br>Jul<br>2022-07-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif" alt="LeetCode Badge" width="80" /></a><br>Aug<br>2022-08-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif" alt="LeetCode Badge" width="80" /></a><br>Sep<br>2022-09-30</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-10.gif" alt="LeetCode Badge" width="80" /></a><br>Oct<br>2022-10-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-11.gif" alt="LeetCode Badge" width="80" /></a><br>Nov<br>2022-11-30</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="LeetCode Badge" width="80" /></a><br>Dec<br>2022-12-31</td>
-        <tr>
-        <td colspan="6" align="center"><h3>2023</h3></td>
-        <tr>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" alt="LeetCode Badge" width="80" /></a><br>Jan<br>2023-01-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" alt="LeetCode Badge" width="80" /></a><br>Feb<br>2023-02-28</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" alt="LeetCode Badge" width="80" /></a><br>Mar<br>2023-03-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" alt="LeetCode Badge" width="80" /></a><br>Apr<br>2023-04-30</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" alt="LeetCode Badge" width="80" /></a><br>May<br>2023-05-31</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" alt="LeetCode Badge" width="80" /></a><br>Jun<br>2023-06-30</td>
-        <tr>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" alt="LeetCode Badge" width="80" /></a><br>Jul<br>2023-07-31</td>
-      </table>
-    </details>
-    </td>
-    <tr>
-    <td align="center">
-    <details>
-      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Study_Plan_Medals-ffff00?style=plastic&labelColor=black&logo=3&logoColor=black" width="200px" height="25px" /></a></summary>
-      <table border="3">
-<!--         <td colspan="6" align="center"><h1>Study Plan Medals</h1></td>
-        <tr> -->
-        <td colspan="3" align="center"><h3>Old Study Plan</h3></td>
-        <td colspan="3" align="center"><h3>New Study Plan</h3></td>
-        <tr>
-        <!-- Programming Skills + JS +Pandas -->
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills I</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills II</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills III</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Programming_Skills.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="LeetCode Badge" width="80" /></a><br>30 Days of JavaScript</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Pandas.gif" alt="LeetCode Badge" width="80" /></a><br>30 Days of Pandas</td>
-        <tr>
-        <!-- DS -->
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_I.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur I</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_II.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur II</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DSIII.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur III</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" alt="LeetCode Badge" width="80" /></a><br>Top Interview 150</td>
-        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="LeetCode Badge" width="80" /></a><br>Top 100 Liked</td>
-        <tr>
-        <!-- Algo -->
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm I</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm II</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Algorithm_III_Badge.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm III</td>
-        <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Premium_Algo_100.gif" alt="LeetCode Badge" width="80" /></a><br>Premium Algo 100</td>
-        <tr>
-        <!-- Binary Search -->
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search I</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%9F%BA%E7%A1%80.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search II</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search III</td>
-        <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Binary_Search.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search</td>
-        <tr>
-        <!-- DP -->
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DP_I.png" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming I</td>
-        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DP_II.png" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming II</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming-.gif" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming</td>
-        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming_Grandmaster.gif" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming Grandmaster</td>
-        <tr>
-        <!-- Graph Theory -->
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%9B%BE%E8%AE%BA-optimize.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory I</td>
-        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%9B%BE%E8%AE%BA_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory II</td>
-        <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Graph_Theory.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory</td>
-        <tr>
-        <!-- Leetcode 75 Level -->
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Level I</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/LC-75.gif" alt="LeetCode Badge" width="80" /></a><br>Level II</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BC%9A%E5%91%98.gif" alt="LeetCode Badge" width="80" /></a><br>Level III</td>
-        <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="LeetCode Badge" width="80" /></a><br>LeetCode 75</td>
-        <tr>
-        <!-- SQL -->
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQLI.gif" alt="LeetCode Badge" width="80" /></a><br>SQL I</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQL_2.gif" alt="LeetCode Badge" width="80" /></a><br>SQL II</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQLIII.gif" alt="LeetCode Badge" width="80" /></a><br>SQL III</td>
-        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="LeetCode Badge" width="80" /></a><br>SQL 50</td>
-        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif" alt="LeetCode Badge" width="80" /></a><br>Advanced SQL 50</td>
-      </table>
-    </details>
-    </td>
-  </table>
-</details>
-
-<details open> 
-  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Ninjas_Studio_Badge_List-darkblue?style=plastic&logoColor=black" width="250px" height="40px" /></a></summary>
-  <table border="5" align="center">
-    <td align="center">
-    <details>
-      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Contest_Ranks-orange?style=plastic&labelColor=black&logo=1&logoColor=black" width="200px" height="25px" /></a></summary>
-      <table border="3">
-<!--         <td colspan="6" align="center"><h3>Contest Ranks</h3></td>
-        <tr> -->
-        <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_3-24341.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>31</b> Gold <br> 1st Rank</td>
-        <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_2-24340.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>7</b> Silver <br> 2nd-5th Rank</td>
-        <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_1-24339.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>1</b> Bronze <br> 6th-10th Rank</td>
-      </table>
-    </details>
-    </td> 
-    <tr> 
-    <td align="center">
-    <details>
-      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Topic_+_Guided_path_Badge-cyan?style=plastic&labelColor=black&logo=2&logoColor=black" width="200px" height="25px" /></a></summary>
-      <table border="3">
-        <th colspan="2" align="center"><h3>Topic Badge</h3></th>
-        <th colspan="2" align="center"><h3>Guided path Badge</h3></th>
-        <th colspan="2" align="center"><h3>Special Guided path Badge</h3></th>
-        <tr>
-        <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_practice_topc_level_3-24347.svg" alt="CodeStudio Badge" width="80" /></a><br><b>15</b> Sensei</td>
-        <td valign="top">
-          <table border="1">
-            <th><h3><code>Topic:</code></h3></th>
-            <tr>
-            <td>Arrays</td>
-            <tr>
-            <td>Strings</td>
-            <tr>
-            <td>Matrices (2D Arrays)</td>
-            <tr>
-            <td>Sorting</td>
-            <tr>
-            <td>Bit Manipulation</td>
-            <tr>
-            <td>Linked List</td>
-            <tr>
-            <td>Stacks & Queues</td>
-            <tr>
-            <td>Heap</td>
-            <tr>
-            <td>Greedy</td>
-            <tr>
-            <td>Dynamic Programming</td>
-            <tr>
-            <td>Binary Search</td>
-            <tr>
-            <td>Trees</td>
-            <tr>
-            <td>Binary Search Trees</td>
-            <tr>
-            <td>Tries</td>
-            <tr>
-            <td>Graph</td>
-          </table>
-        </td>
-        <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_3-24344.svg" alt="CodeStudio Badge" width="80" /></a><br><b>26</b> Sensei</td>
-        <td valign="top">
-          <table border="1">
-            <th colspan="2"><h3><code>Guided path:</code></h3></th>
-            <tr>
-            <td rowspan="9">Data Structures and Algorithms</td>
-            <td><details><summary>Basics of C++</summary><img src="#" width="150"/></details></td>
-            <tr>
-            <td><details><summary>Oops in C++</summary><img src="#" width="150"/></details></td>
-            <tr>
-            <td><details><summary>Basics of Python</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Core Python Essentials</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Oops in Python</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Basics of Java</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Fundamentals of Java</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Essentials of Core Java</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Oops in Java</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td rowspan="6">Interview Preparation</td>
-            <td><details><summary>Aptitude Preparation</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Operating System (OS)</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Database Management Systems (DBMS)</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Interview Guide for Product Based Companies</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Top 150 Interview Puzzles</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>System Design</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td rowspan="8">Web/App development</td>
-            <td><details><summary>Basics of HTML</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Basics of CSS</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Basics of JavaScript</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Basics of React</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Basics of Angular</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Basics of Node</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Fundamentals of React Native</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Flutter</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td rowspan="2">Data Science / Machine Learning</td>
-            <td><details><summary>Basics of Machine Learning</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td><details><summary>Data Science</summary><img src="#" width="150"></details></td>
-            <tr>
-            <td rowspan="1">New Tech</td>
-            <td><details><summary>Blockchain</summary><img src="#" width="150"></details></td>
-          </table>
-        </td>
-        <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_special_gp_level_3-24350.svg" alt="CodeStudio Badge" width="80" /></a><br><b>2</b> Sensei</td>
-        <td valign="top">
-          <table border="1">
-            <th colspan="2"><h3><code>Special Guided path:</code></h3></th>
-            <tr>
-            <td rowspan="2">Data Structures and Algorithms</td>
-            <td><details><summary>Data Structures and Algorithm</summary><img src="https://files.codingninjas.in/certi_image261826bedebf8b60a87b6b113e4bc2d56b5f96.jpg" width="150"></details></td>
-            <tr>
-            <td><details><summary>Competitive programming</summary><img src="https://files.codingninjas.in/certi_image26064193ed4a62d4c825528fbd4a8a537433d0.jpg" width="150"></details></td>
-          </table>
-        </td>
-      </table>
-    </details>
-    </td>
-  </table>
-</details>
+<table border="5" align="center">
+	<td valign="top">
+		<details open>
+		  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/-LeetCode_Badge_List-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange" width="250px" height="40px" /></a></summary>
+		  <table border="4" align="center">
+		    <td align="center">
+		    <details>
+		      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Competition_Medals-00ffff?style=plastic&labelColor=black&logo=1&logoColor=black" width="200px" height="25px" /></a></summary>
+		      <table border="3">
+		<!--         <td colspan="6" align="center"><h3>Competition Medals</h3></td>
+		        <tr> -->
+		        <td colspan="6" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-annual.gif" alt="LeetCode Badge" width="120" /></a></td>
+		      </table>
+		    </details>
+		    </td> 
+		    <tr> 
+		    <td align="center">
+		    <details>
+		      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Daily_Medals-ff00ff?style=plastic&labelColor=black&logo=2&logoColor=black" width="200px" height="25px" /></a></summary>
+		      <table border="3">
+		<!--         <td colspan="6" align="center"><h1>Daily Medals</h1></td>
+		        <tr> -->
+		        <td colspan="6" align="center"><h3>2021</h3></td>
+		        <tr>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-08.gif" alt="LeetCode Badge" width="80" /></a><br>Aug<br>2021-08-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-09.gif" alt="LeetCode Badge" width="80" /></a><br>Sep<br>2021-09-30</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-10.gif" alt="LeetCode Badge" width="80" /></a><br>Oct<br>2021-10-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-11.gif" alt="LeetCode Badge" width="80" /></a><br>Nov<br>2021-11-30</td>
+		        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2021/gif/2021-12.gif" alt="LeetCode Badge" width="80" /></a><br>Dec<br>2021-12-31</td>
+		        <tr>
+		        <td colspan="6" align="center"><h3>2022</h3></td>
+		        <tr>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-01.gif" alt="LeetCode Badge" width="80" /></a><br>Jan<br>2022-01-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-02.gif" alt="LeetCode Badge" width="80" /></a><br>Feb<br>2022-02-28</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-03.gif" alt="LeetCode Badge" width="80" /></a><br>Mar<br>2022-03-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-04.gif" alt="LeetCode Badge" width="80" /></a><br>Apr<br>2022-04-30</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-05.gif" alt="LeetCode Badge" width="80" /></a><br>May<br>2022-05-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-06.gif" alt="LeetCode Badge" width="80" /></a><br>Jun<br>2022-06-30</td>
+		        <tr>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-07.gif" alt="LeetCode Badge" width="80" /></a><br>Jul<br>2022-07-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-08.gif" alt="LeetCode Badge" width="80" /></a><br>Aug<br>2022-08-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-09.gif" alt="LeetCode Badge" width="80" /></a><br>Sep<br>2022-09-30</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-10.gif" alt="LeetCode Badge" width="80" /></a><br>Oct<br>2022-10-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-11.gif" alt="LeetCode Badge" width="80" /></a><br>Nov<br>2022-11-30</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="LeetCode Badge" width="80" /></a><br>Dec<br>2022-12-31</td>
+		        <tr>
+		        <td colspan="6" align="center"><h3>2023</h3></td>
+		        <tr>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-01.gif" alt="LeetCode Badge" width="80" /></a><br>Jan<br>2023-01-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-02.gif" alt="LeetCode Badge" width="80" /></a><br>Feb<br>2023-02-28</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-03.gif" alt="LeetCode Badge" width="80" /></a><br>Mar<br>2023-03-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-04.gif" alt="LeetCode Badge" width="80" /></a><br>Apr<br>2023-04-30</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-05.gif" alt="LeetCode Badge" width="80" /></a><br>May<br>2023-05-31</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-06.gif" alt="LeetCode Badge" width="80" /></a><br>Jun<br>2023-06-30</td>
+		        <tr>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://leetcode.com/static/images/badges/2023/gif/2023-07.gif" alt="LeetCode Badge" width="80" /></a><br>Jul<br>2023-07-31</td>
+		      </table>
+		    </details>
+		    </td>
+		    <tr>
+		    <td align="center">
+		    <details>
+		      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Study_Plan_Medals-ffff00?style=plastic&labelColor=black&logo=3&logoColor=black" width="200px" height="25px" /></a></summary>
+		      <table border="3">
+		<!--         <td colspan="6" align="center"><h1>Study Plan Medals</h1></td>
+		        <tr> -->
+		        <td colspan="3" align="center"><h3>Old Study Plan</h3></td>
+		        <td colspan="3" align="center"><h3>New Study Plan</h3></td>
+		        <tr>
+		        <!-- Programming Skills + JS +Pandas -->
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills I</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E5%9F%BA%E7%A1%80.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills II</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills III</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Programming_Skills.gif" alt="LeetCode Badge" width="80" /></a><br>Programming Skills</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/JS30_GIF.gif" alt="LeetCode Badge" width="80" /></a><br>30 Days of JavaScript</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Pandas.gif" alt="LeetCode Badge" width="80" /></a><br>30 Days of Pandas</td>
+		        <tr>
+		        <!-- DS -->
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_I.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur I</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DS_II.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur II</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DSIII.png" alt="LeetCode Badge" width="80" /></a><br>Data Structur III</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_Interview_150.gif" alt="LeetCode Badge" width="80" /></a><br>Top Interview 150</td>
+		        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_100_Liked.gif" alt="LeetCode Badge" width="80" /></a><br>Top 100 Liked</td>
+		        <tr>
+		        <!-- Algo -->
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/algorithm_I.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm I</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/algorithm_II.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm II</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Algorithm_III_Badge.png" alt="LeetCode Badge" width="80" /></a><br>Algorithm III</td>
+		        <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Premium_Algo_100.gif" alt="LeetCode Badge" width="80" /></a><br>Premium Algo 100</td>
+		        <tr>
+		        <!-- Binary Search -->
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search I</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E5%9F%BA%E7%A1%80.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search II</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search III</td>
+		        <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Binary_Search.gif" alt="LeetCode Badge" width="80" /></a><br>Binary Search</td>
+		        <tr>
+		        <!-- DP -->
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DP_I.png" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming I</td>
+		        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/DP_II.png" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming II</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming-.gif" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming</td>
+		        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Dynamic_Programming_Grandmaster.gif" alt="LeetCode Badge" width="80" /></a><br>Dynamic Programming Grandmaster</td>
+		        <tr>
+		        <!-- Graph Theory -->
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%9B%BE%E8%AE%BA-optimize.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory I</td>
+		        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%9B%BE%E8%AE%BA_%E4%BC%9A%E5%91%98%E8%BF%9B%E9%98%B6.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory II</td>
+		        <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Graph_Theory.gif" alt="LeetCode Badge" width="80" /></a><br>Graph Theory</td>
+		        <tr>
+		        <!-- Leetcode 75 Level -->
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E5%85%A5%E9%97%A8.gif" alt="LeetCode Badge" width="80" /></a><br>Level I</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/LC-75.gif" alt="LeetCode Badge" width="80" /></a><br>Level II</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/%E4%BC%9A%E5%91%98.gif" alt="LeetCode Badge" width="80" /></a><br>Level III</td>
+		        <td colspan="3" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/LeetCode_75.gif" alt="LeetCode Badge" width="80" /></a><br>LeetCode 75</td>
+		        <tr>
+		        <!-- SQL -->
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQLI.gif" alt="LeetCode Badge" width="80" /></a><br>SQL I</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQL_2.gif" alt="LeetCode Badge" width="80" /></a><br>SQL II</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/SQLIII.gif" alt="LeetCode Badge" width="80" /></a><br>SQL III</td>
+		        <td align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Top_SQL_50.gif" alt="LeetCode Badge" width="80" /></a><br>SQL 50</td>
+		        <td colspan="2" align="center"><a href="https://leetcode.com/akashsingh3031" target="_blank" align="center"><img align="center" src="https://assets.leetcode.com/static_assets/others/Premium_SQL_50.gif" alt="LeetCode Badge" width="80" /></a><br>Advanced SQL 50</td>
+		      </table>
+		    </details>
+		    </td>
+		  </table>
+		</details>
+	</td>
+  	<td valign="top">
+		<details open> 
+		  <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Coding_Ninjas_Studio_Badge_List-darkblue?style=plastic&logoColor=black" width="250px" height="40px" /></a></summary>
+		  <table border="4" align="center">
+		    <td align="center">
+		    <details>
+		      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Contest_Ranks-orange?style=plastic&labelColor=black&logo=1&logoColor=black" width="200px" height="25px" /></a></summary>
+		      <table border="3">
+		<!--         <td colspan="6" align="center"><h3>Contest Ranks</h3></td>
+		        <tr> -->
+		        <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_3-24341.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>31</b> Gold <br> 1st Rank</td>
+		        <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_2-24340.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>7</b> Silver <br> 2nd-5th Rank</td>
+		        <td align="center"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_contest_level_1-24339.svg" alt="CodeStudio Badge" width="120" /></a><br><br><b>1</b> Bronze <br> 6th-10th Rank</td>
+		      </table>
+		    </details>
+		    </td> 
+		    <tr> 
+		    <td align="center">
+		    <details>
+		      <summary align="center"><a href="#-" target="_blank"><img align="center" src="https://custom-icon-badges.demolab.com/badge/Topic_+_Guided_path_Badge-cyan?style=plastic&labelColor=black&logo=2&logoColor=black" width="200px" height="25px" /></a></summary>
+		      <table border="3">
+		        <th colspan="2" align="center"><h3>Topic Badge</h3></th>
+		        <th colspan="2" align="center"><h3>Guided path Badge</h3></th>
+		        <th colspan="2" align="center"><h3>Special Guided path Badge</h3></th>
+		        <tr>
+		        <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_practice_topc_level_3-24347.svg" alt="CodeStudio Badge" width="80" /></a><br><b>15</b> Sensei</td>
+		        <td valign="top">
+		          <table border="1">
+		            <th><h3><code>Topic:</code></h3></th>
+		            <tr>
+		            <td>Arrays</td>
+		            <tr>
+		            <td>Strings</td>
+		            <tr>
+		            <td>Matrices (2D Arrays)</td>
+		            <tr>
+		            <td>Sorting</td>
+		            <tr>
+		            <td>Bit Manipulation</td>
+		            <tr>
+		            <td>Linked List</td>
+		            <tr>
+		            <td>Stacks & Queues</td>
+		            <tr>
+		            <td>Heap</td>
+		            <tr>
+		            <td>Greedy</td>
+		            <tr>
+		            <td>Dynamic Programming</td>
+		            <tr>
+		            <td>Binary Search</td>
+		            <tr>
+		            <td>Trees</td>
+		            <tr>
+		            <td>Binary Search Trees</td>
+		            <tr>
+		            <td>Tries</td>
+		            <tr>
+		            <td>Graph</td>
+		          </table>
+		        </td>
+		        <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_gp_level_3-24344.svg" alt="CodeStudio Badge" width="80" /></a><br><b>26</b> Sensei</td>
+		        <td valign="top">
+		          <table border="1">
+		            <th colspan="2"><h3><code>Guided path:</code></h3></th>
+		            <tr>
+		            <td rowspan="9">Data Structures and Algorithms</td>
+		            <td><details><summary>Basics of C++</summary><img src="#" width="150"/></details></td>
+		            <tr>
+		            <td><details><summary>Oops in C++</summary><img src="#" width="150"/></details></td>
+		            <tr>
+		            <td><details><summary>Basics of Python</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Core Python Essentials</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Oops in Python</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of Java</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Fundamentals of Java</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Essentials of Core Java</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Oops in Java</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td rowspan="6">Interview Preparation</td>
+		            <td><details><summary>Aptitude Preparation</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Operating System (OS)</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Database Management Systems (DBMS)</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Interview Guide for Product Based Companies</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Top 150 Interview Puzzles</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>System Design</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td rowspan="8">Web/App development</td>
+		            <td><details><summary>Basics of HTML</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of CSS</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of JavaScript</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of React</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of Angular</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Basics of Node</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Fundamentals of React Native</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Flutter</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td rowspan="2">Data Science / Machine Learning</td>
+		            <td><details><summary>Basics of Machine Learning</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Data Science</summary><img src="#" width="150"></details></td>
+		            <tr>
+		            <td rowspan="1">New Tech</td>
+		            <td><details><summary>Blockchain</summary><img src="#" width="150"></details></td>
+		          </table>
+		        </td>
+		        <td valign="top"><a href="https://www.codingninjas.com/studio/profile/AkashSingh3031" target="_blank" align="center"><img align="center" src="https://files.codingninjas.in/s_48_special_gp_level_3-24350.svg" alt="CodeStudio Badge" width="80" /></a><br><b>2</b> Sensei</td>
+		        <td valign="top">
+		          <table border="1">
+		            <th colspan="2"><h3><code>Special Guided path:</code></h3></th>
+		            <tr>
+		            <td rowspan="2">Data Structures and Algorithms</td>
+		            <td><details><summary>Data Structures and Algorithm</summary><img src="https://files.codingninjas.in/certi_image261826bedebf8b60a87b6b113e4bc2d56b5f96.jpg" width="150"></details></td>
+		            <tr>
+		            <td><details><summary>Competitive programming</summary><img src="https://files.codingninjas.in/certi_image26064193ed4a62d4c825528fbd4a8a537433d0.jpg" width="150"></details></td>
+		          </table>
+		        </td>
+		      </table>
+		    </details>
+		    </td>
+		  </table>
+		</details>
+	</td>
+</table>
 
 <!--🏆TROPHYGIF-->
 <p align="center">
