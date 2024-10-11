@@ -2,7 +2,7 @@
   <img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/images/Developer.gif" width="200px">
 </p>
 
-<h1 align="center"> <a href="https://prepverse.github.io"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Akash+Singh" alt="Typing SVG" /></a></h1>
+<h1 align="center"> <a href="https://prepverse.vercel.app"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&pause=1000&color=F74609FF&center=true&vCenter=true&repeat=false&width=500&lines=Hello++%3C%F0%9D%9A%8C%F0%9D%9A%98%F0%9D%9A%8D%F0%9D%9A%8E%F0%9D%9A%9B%F0%9D%9A%9C%2F%3E!%2C+I'm+Akash+Singh" alt="Typing SVG" /></a></h1>
 
 [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AkashSingh3031)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
